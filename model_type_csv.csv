@@ -1,0 +1,2603 @@
+brand,model,color_id,storage_id
+OPPO,A53,1,1
+OPPO,A53,2,1
+OPPO,A53,3,1
+OPPO,A12,4,1
+OPPO,A12,5,1
+OPPO,A5s,5,1
+OPPO,F3,5,1
+OPPO,F3 Plus,5,1
+OPPO,Rohit Sharma Limited Edition,5,1
+OPPO,Hardik Pandya Limited Editon,5,1
+OPPO,Ravichandran Ashwin Limited Edition,5,1
+OPPO,F7,5,1
+LG,Q Stylus+ ,5,1
+LG,G7 ThinQ ,5,1
+LG,G6 ,5,1
+LG,Q6+ ,5,1
+LG,Q7+ ,5,1
+ASUS,Zenfone Max Pro M1 ,5,1
+ASUS,ZenFone Max M2 ,5,1
+ASUS,ZenFone Max M1 ,5,1
+realme,1,5,1
+realme,3,5,1
+GIONEE,A1 Plus ,5,1
+GIONEE,M7 Power ,5,1
+GIONEE,A1 ,5,1
+Nokia,5.1 Plus ,5,1
+Nokia,6.2,5,1
+Apple,iPhone 12 Mini ,5,1
+Apple,iPhone 12 ,5,1
+Apple,iPhone 11 ,5,1
+SAMSUNG,Galaxy A12 ,5,1
+SAMSUNG,Galaxy A03s ,5,1
+SAMSUNG,Galaxy M32 ,5,1
+SAMSUNG,Galaxy M11 ,5,1
+SAMSUNG,Galaxy A21s ,5,1
+SAMSUNG,Galaxy M12 ,5,1
+SAMSUNG,Galaxy A20s ,5,1
+SAMSUNG,Galaxy J6 ,5,1
+SAMSUNG,Galaxy J6 Plus ,5,1
+SAMSUNG,Galaxy A6 ,5,1
+SAMSUNG,Galaxy A30 ,5,1
+SAMSUNG,Galaxy A6+ ,5,1
+SAMSUNG,Galaxy J8 ,5,1
+SAMSUNG,M02s ,5,1
+SAMSUNG,Galaxy On8 ,5,1
+SAMSUNG,Galaxy On6 ,5,1
+SAMSUNG,Galaxy A50 ,5,1
+SAMSUNG,Galaxy M30s ,5,1
+SAMSUNG,Galaxy A7 ,5,1
+Lenovo,Z2 Plus ,5,1
+Lenovo,A7 ,5,1
+Lenovo,K10 Note ,5,1
+Lenovo,K10 Plus ,5,1
+Lenovo,K9 Note ,5,1
+Motorola,G7,5,1
+Motorola,One,5,1
+Motorola,One Power ,5,1
+Xiaomi,Mi A2 ,5,1
+Xiaomi,Mi Max 2 ,5,1
+Xiaomi,Redmi Note 4 ,5,1
+Xiaomi,Redmi Note 5 ,5,1
+Xiaomi,Redmi Note 6 Pro ,5,1
+Xiaomi,Redmi Y2 ,5,1
+vivo,Y83 Pro,5,1
+Infinix,Hot 10S,5,1
+Infinix,Note 10,5,1
+OPPO,A12,6,1
+OPPO,A83 2018 Edition,6,1
+OPPO,A5s,6,1
+LG,Q6+ ,6,1
+LG,G6 ,6,1
+ASUS,Zenfone Max Pro M1 ,6,1
+ASUS,ZenFone Max M2 ,6,1
+ASUS,ZenFone Max Pro M2 ,6,1
+GIONEE,M7 Power ,6,1
+Nokia,8.1,6,1
+Nokia,7.1,6,1
+Nokia,5.1 Plus ,6,1
+Nokia,6.1 Plus ,6,1
+Apple,iPhone 12 ,6,1
+Apple,iPhone 12 Mini ,6,1
+SAMSUNG,Galaxy A12 ,6,1
+SAMSUNG,Galaxy M12 ,6,1
+SAMSUNG,Galaxy A03s ,6,1
+SAMSUNG,Galaxy A21s ,6,1
+SAMSUNG,M02s ,6,1
+SAMSUNG,Galaxy M32 ,6,1
+SAMSUNG,Galaxy A6+ ,6,1
+SAMSUNG,Galaxy A7 ,6,1
+SAMSUNG,Galaxy J6 Plus ,6,1
+SAMSUNG,Galaxy A6 ,6,1
+SAMSUNG,Galaxy A30 ,6,1
+SAMSUNG,Galaxy J8 ,6,1
+SAMSUNG,Galaxy J6 ,6,1
+SAMSUNG,Galaxy On6 ,6,1
+SAMSUNG,Galaxy On8 ,6,1
+SAMSUNG,Galaxy M30s ,6,1
+SAMSUNG,Galaxy A20s ,6,1
+SAMSUNG,Galaxy A50 ,6,1
+Lenovo,A7 ,6,1
+Xiaomi,Redmi Note 5 Pro ,6,1
+Xiaomi,Redmi Note 6 Pro ,6,1
+Xiaomi,Redmi Note 7 Pro ,6,1
+Xiaomi,Redmi Y2 ,6,1
+OPPO,A12,7,1
+OPPO,A31,10,1
+OPPO,A31,11,1
+Nokia,6,13,1
+POCO,C3 ,13,1
+Xiaomi,REDMI 9 Prime ,13,1
+OPPO,A54,14,1
+LG,W41 ,17,1
+OPPO,A54,18,1
+OPPO,A54,19,1
+OPPO,A31,21,1
+SAMSUNG,Galaxy C7 Pro ,22,1
+OPPO,A53,23,1
+OPPO,K1,24,1
+OPPO,A15s,25,1
+realme,3,25,1
+OPPO,A53,28,1
+SAMSUNG,Galaxy S9 ,31,1
+vivo,X60 ,31,1
+Xiaomi,REDMI 9i ,31,1
+Infinix,S5 Lite,31,1
+OPPO,A15S,32,1
+OPPO,A15S,36,1
+LG,W31 ,37,1
+LG,W30 Pro ,37,1
+SAMSUNG,Galaxy M21 ,37,1
+vivo,Y21A,37,1
+OPPO,A7,38,1
+OPPO,A55,39,1
+vivo,Y95,39,1
+OPPO,A83,40,1
+OPPO,A3s,40,1
+OPPO,F7,40,1
+Apple,iPhone 12 Mini ,40,1
+Apple,iPhone 12 ,40,1
+Apple,iPhone 11 ,40,1
+SAMSUNG,Galaxy J6 Plus ,40,1
+SAMSUNG,M02s ,40,1
+SAMSUNG,Galaxy A30 ,40,1
+Xiaomi,Mi A2 ,40,1
+Xiaomi,Redmi 6 Pro ,40,1
+Xiaomi,Redmi Note 6 Pro ,40,1
+realme,9i,44,1
+OPPO,K1,45,1
+OPPO,A5,52,1
+realme,3i ,52,1
+realme,2,52,1
+SAMSUNG,Galaxy F02s ,52,1
+OPPO,F3 Deepika Padukone Limited Edition,57,1
+OPPO,F3,57,1
+OPPO,F1 Plus,57,1
+OPPO,F1S,57,1
+Xiaomi,Redmi Note 6 Pro ,57,1
+OPPO,F1 Plus,58,1
+OPPO,A5s,58,1
+OPPO,F3,58,1
+OPPO,F3 Plus,58,1
+OPPO,F1S,58,1
+GIONEE,M7 Power ,58,1
+GIONEE,A1 Plus ,58,1
+GIONEE,A1 ,58,1
+GIONEE,S6 Pro ,58,1
+GIONEE,S11 ,58,1
+Nokia,6.1,58,1
+Apple,iPhone 11 Pro Max ,58,1
+Apple,iPhone 11 Pro ,58,1
+Apple,iPhone XS Max ,58,1
+Apple,iPhone XS ,58,1
+SAMSUNG,Galaxy A6 ,58,1
+SAMSUNG,Galaxy A6+ ,58,1
+SAMSUNG,Galaxy J6 ,58,1
+SAMSUNG,Galaxy J8 ,58,1
+SAMSUNG,Galaxy C7 Pro ,58,1
+SAMSUNG,Galaxy A7 ,58,1
+Lenovo,Vibe K5 Note ,58,1
+Lenovo,K9 Note ,58,1
+Motorola,M,58,1
+Xiaomi,Mi A2 ,58,1
+Xiaomi,Redmi 5 ,58,1
+Xiaomi,Redmi 6 Pro ,58,1
+Xiaomi,Redmi Note 5 ,58,1
+Xiaomi,Redmi Note 5 Pro ,58,1
+Xiaomi,Redmi Y2 ,58,1
+vivo,V9,58,1
+vivo,V7+,58,1
+Xiaomi,REDMI 9 Power ,59,1
+OPPO,A3s,60,1
+Apple,iPhone 12 Mini ,60,1
+Apple,iPhone 11 ,60,1
+Apple,iPhone 12 ,60,1
+Infinix,Hot 11,60,1
+Infinix,Hot 10S,60,1
+Infinix,Note 10,60,1
+OPPO,A83,61,1
+Xiaomi,Redmi Note 9 Pro ,62,1
+OPPO,F9,63,1
+OPPO,A5s,67,1
+Apple,iPhone 12 Mini ,67,1
+Apple,iPhone 11 ,67,1
+Apple,iPhone 12 ,67,1
+SAMSUNG,Galaxy A20s ,67,1
+OPPO,F1S,68,1
+ASUS,Zenfone Max Pro M1 ,68,1
+GIONEE,A1 ,68,1
+Motorola,M,68,1
+POCO,M2 Reloaded ,68,1
+OPPO,A5,72,1
+realme,3i ,72,1
+realme,1,72,1
+realme,3,72,1
+OPPO,A7,73,1
+vivo,Z1 Pro,74,1
+LG,G6 ,76,1
+ASUS,Zenfone Zoom ,76,1
+Nokia,6.1 Plus ,76,1
+Nokia,6.1,76,1
+Apple,iPhone 12 ,76,1
+Apple,iPhone 12 Mini ,76,1
+Apple,iPhone 11 ,76,1
+SAMSUNG,Galaxy A12 ,76,1
+SAMSUNG,Galaxy M12 ,76,1
+SAMSUNG,Galaxy A03s ,76,1
+SAMSUNG,Galaxy A21s ,76,1
+SAMSUNG,Galaxy M30s ,76,1
+SAMSUNG,Galaxy A30 ,76,1
+SAMSUNG,Galaxy A50 ,76,1
+Lenovo,Z2 Plus ,76,1
+Motorola,G7,76,1
+Motorola,One,76,1
+OPPO,F9,77,1
+LG,W30 Plus ,80,1
+OPPO,F7,84,1
+LG,V20 ,84,1
+ASUS,ZenFone Max M2 ,84,1
+realme,1,84,1
+Apple,iPhone 11 Pro Max ,84,1
+Apple,iPhone 11 Pro ,84,1
+Apple,iPhone XS Max ,84,1
+Apple,iPhone XS ,84,1
+Motorola,M,84,1
+vivo,Y12G ,85,1
+realme,C25Y ,85,1
+SAMSUNG,Galaxy M20 ,90,1
+Google Pixel,3,97,1
+Google Pixel,3a XL ,97,1
+Google Pixel,3 XL ,97,1
+Google Pixel,2,97,1
+Google Pixel,3a ,97,1
+Google Pixel,3a XL ,98,1
+Google Pixel,3,98,1
+Google Pixel,3 XL ,98,1
+Google Pixel,3a ,98,1
+Google Pixel,3,99,1
+Google Pixel,3 XL ,99,1
+LG,W31 ,102,1
+LG,W30 Pro ,103,1
+LG,Q7+ ,104,1
+LG,W41 ,107,1
+LG,W30 Plus ,109,1
+LG,G7 ThinQ ,110,1
+LG,Q6+ ,110,1
+LG,V20a ,111,1
+Nokia,7.2,115,1
+Nokia,6.2,115,1
+realme,Narzo 30A ,119,1
+LG,V20 ,127,1
+LG,Q7+ ,129,1
+Apple,iPhone 11 ,133,1
+POCO,M3 ,133,1
+POCO,M4 Pro 5G,133,1
+ASUS,ZenFone Max Pro M2 ,135,1
+realme,5i ,136,1
+Infinix,Hot 7,136,1
+realme,C11 2021 ,138,1
+POCO,M3 ,138,1
+POCO,M4 Pro 5G,138,1
+realme,C11 2021 ,139,1
+realme,Narzo 30 5G ,140,1
+realme,Narzo 30 ,140,1
+realme,Narzo 30 5G ,141,1
+realme,Narzo 30 ,141,1
+realme,C21Y ,142,1
+realme,C21 ,142,1
+realme,C21Y ,143,1
+realme,C21 ,143,1
+realme,C25s ,144,1
+realme,C25 ,144,1
+realme,C25s ,145,1
+realme,C25 ,145,1
+realme,Narzo 30A ,148,1
+realme,8 5G ,149,1
+realme,8 5G ,150,1
+realme,C15 Qualcomm Edition ,152,1
+realme,C15 ,152,1
+realme,C12 ,152,1
+realme,C15 Qualcomm Edition ,156,1
+realme,C15 ,156,1
+realme,C12 ,156,1
+realme,C3 ,163,1
+realme,7i ,165,1
+realme,Narzo 50i ,166,1
+Xiaomi,REDMI 9 Prime ,166,1
+OPPO,A55,166,1
+realme,Narzo 50i ,167,1
+Xiaomi,Redmi 9 ,167,1
+realme,Narzo 50A ,168,1
+realme,Narzo 50A ,169,1
+Xiaomi,REDMI Note 9 ,172,1
+realme,5 Pro ,175,1
+realme,6,177,1
+realme,3i ,179,1
+realme,2,179,1
+SAMSUNG,Galaxy F02s ,179,1
+realme,6i ,181,1
+realme,6,182,1
+realme,6i ,183,1
+realme,X2 ,184,1
+Motorola,One Macro ,186,1
+Xiaomi,REDMI 9 Prime ,186,1
+realme,X2 ,187,1
+realme,C3 ,189,1
+realme,C3 ,190,1
+realme,7i ,191,1
+realme,Narzo 20 ,196,1
+realme,Narzo 20A ,196,1
+realme,Narzo 20 ,197,1
+realme,Narzo 20A ,197,1
+realme,Narzo 10A ,198,1
+realme,Narzo 10A ,202,1
+realme,U1 ,205,1
+realme,U1 ,206,1
+realme,X2 ,209,1
+realme,5i ,212,1
+Motorola,G9 ,212,1
+Infinix,Note 7,212,1
+Infinix,S5 Pro,212,1
+realme,3,214,1
+Xiaomi,Redmi Note 8 ,220,1
+GIONEE,S11 ,222,1
+Motorola,G8 Power Lite ,222,1
+POCO,C31,222,1
+GIONEE,A1 Plus ,224,1
+Xiaomi,Redmi Note 9 Pro ,227,1
+Nokia,3.4,230,1
+Nokia,5.4,231,1
+Nokia,3.4,235,1
+Nokia,5.4,235,1
+Nokia,3.4,236,1
+Nokia,7.2,236,1
+Nokia,7.2,246,1
+Nokia,7.1,249,1
+Nokia,8,249,1
+Nokia,8,251,1
+Nokia,5.3,252,1
+Nokia,5.3,253,1
+Nokia,5.3,254,1
+Nokia,7 Plus ,256,1
+Nokia,8,258,1
+Nokia,8,260,1
+Nokia,7 Plus ,261,1
+Apple,iPhone 11 Pro Max ,264,1
+Apple,iPhone 11 Pro ,264,1
+Apple,iPhone 11 Pro Max ,266,1
+Apple,iPhone XS ,266,1
+Apple,iPhone XS Max ,266,1
+Apple,iPhone 11 Pro ,266,1
+Infinix,S4,266,1
+SAMSUNG,Galaxy F22 ,268,1
+SAMSUNG,Galaxy F22 ,269,1
+SAMSUNG,Galaxy F12 ,270,1
+Xiaomi,Redmi 9 ,270,1
+SAMSUNG,Galaxy F12 ,271,1
+SAMSUNG,Galaxy F12 ,273,1
+SAMSUNG,M21 2021 Edition ,275,1
+Xiaomi,Redmi Note 7 Pro ,277,1
+Xiaomi,Redmi Note 8 ,277,1
+SAMSUNG,Galaxy M32 ,280,1
+vivo,Y12s ,282,1
+SAMSUNG,Galaxy M11 ,288,1
+Infinix,S5 Pro,288,1
+Infinix,Hot 9,288,1
+Infinix,Hot 9 Pro,288,1
+Infinix,S5 Lite,288,1
+Infinix,S5 ,288,1
+SAMSUNG,Galaxy M11 ,295,1
+SAMSUNG,Galaxy A30s ,296,1
+SAMSUNG,Galaxy F02s ,297,1
+SAMSUNG,Galaxy A30s ,299,1
+SAMSUNG,Galaxy A30s ,303,1
+SAMSUNG,Galaxy M30 ,304,1
+Motorola,G7 Power,310,1
+vivo,U12,314,1
+SAMSUNG,Galaxy M21 ,324,1
+SAMSUNG,Galaxy M20 ,331,1
+realme,9i,334,1
+SAMSUNG,Galaxy S8 ,335,1
+SAMSUNG,Galaxy S9 ,338,1
+SAMSUNG,Galaxy S9 ,345,1
+SAMSUNG,Galaxy Note 5 ,346,1
+SAMSUNG,Galaxy M30 ,366,1
+Lenovo,K8 Note ,379,1
+Motorola,Z2 Play,379,1
+Lenovo,K8 Note ,380,1
+Xiaomi,Redmi Y2 ,381,1
+Lenovo,K10 Plus ,385,1
+Motorola,E7 Power ,387,1
+Motorola,G10 Power ,388,1
+Motorola,G40 Fusion ,389,1
+Motorola,G40 Fusion ,390,1
+Motorola,E7 Power ,391,1
+Motorola,G10 Power ,392,1
+Motorola,X4,395,1
+Motorola,E6s,397,1
+Motorola,G6,399,1
+Motorola,G30 ,401,1
+Motorola,G9 Power ,403,1
+Motorola,G30 ,404,1
+Motorola,G9 ,406,1
+Xiaomi,Redmi 8 ,406,1
+Xiaomi,Redmi Note 7S ,406,1
+HTC,U Ultra,406,1
+vivo,V9,406,1
+Motorola,E7 Plus ,407,1
+Motorola,G8 Power Lite ,409,1
+POCO,C3 ,409,1
+Motorola,One Macro ,411,1
+Motorola,Z2 Play,412,1
+Motorola,X4,413,1
+Motorola,E6s,414,1
+Motorola,G8 Plus,416,1
+Motorola,G8 Plus,418,1
+Motorola,E7 Plus ,419,1
+Motorola,E6s,420,1
+Motorola,G9 Power ,421,1
+Infinix,Note 11 ,424,1
+POCO,M3 ,426,1
+POCO,M4 Pro 5G,426,1
+POCO,M2 Reloaded ,427,1
+POCO,C3 ,428,1
+vivo,Y20G ,429,1
+Infinix,Hot 10 Play,429,1
+Infinix,Hot 10,429,1
+Infinix,S4,432,1
+vivo,Y21A,433,1
+vivo,Y72 5G ,439,1
+vivo,Y11 ,443,1
+Xiaomi,Mi A3 ,465,1
+Xiaomi,Mi A3 ,466,1
+Xiaomi,Redmi 6 Pro ,468,1
+Xiaomi,Redmi 8 ,470,1
+Xiaomi,Redmi Note 7 ,470,1
+Xiaomi,Redmi Note 7S ,470,1
+Xiaomi,Redmi 8 ,471,1
+Xiaomi,Redmi Note 7 ,471,1
+Xiaomi,Redmi Note 7S ,471,1
+Infinix,S5 Pro,474,1
+Xiaomi,Redmi 9 ,475,1
+Xiaomi,REDMI 9 Power ,476,1
+Xiaomi,REDMI 9 Power ,478,1
+Xiaomi,REDMI 9i ,480,1
+Xiaomi,Redmi Note 8 ,485,1
+Infinix,Hot 8,485,1
+Xiaomi,Redmi Note 7 Pro ,487,1
+Xiaomi,Redmi Note 7S ,488,1
+Xiaomi,REDMI Note 9 ,489,1
+Xiaomi,Redmi Note 9 Pro ,490,1
+Xiaomi,Note 10 lite,490,1
+Xiaomi,Redmi Y3 ,491,1
+Xiaomi,Redmi Y3 ,492,1
+Xiaomi,Redmi Y3 ,493,1
+HTC,U Ultra,494,1
+OPPO,A55,513,1
+POCO,M2 Pro,517,1
+POCO,M2 Pro,518,1
+POCO,M2 Pro,519,1
+realme,C25Y ,527,1
+vivo,Z1 Pro,548,1
+vivo,Y95,549,1
+vivo,Y83 Pro,549,1
+vivo,V9,551,1
+Infinix,Hot 10 Play,561,1
+Infinix,Hot 11S,562,1
+Infinix,Hot 10 Play,562,1
+Infinix,Hot 10S,563,1
+Infinix,Hot 10 Play,563,1
+Infinix,Hot 11S,564,1
+Infinix,Hot 11,564,1
+Infinix,Hot 11S,565,1
+Infinix,Hot 11,566,1
+Infinix,Hot 11S,566,1
+Infinix,Hot 11,567,1
+Infinix,Note 10,567,1
+Infinix,Hot 8,568,1
+Infinix,Hot 9,568,1
+Infinix,Hot 9 Pro,568,1
+Infinix,S5 Lite,568,1
+Infinix,S5 ,568,1
+Infinix,Hot 10,569,1
+Infinix,Hot 9,569,1
+Infinix,Hot 9 Pro,569,1
+Infinix,Note 11 ,570,1
+Infinix,Note 11,573,1
+Infinix,Note 5,576,1
+Infinix,Hot S3,577,1
+Infinix,Note 5,578,1
+Infinix,Note 5 Stylus,580,1
+Infinix,Hot 10S,581,1
+Infinix,Hot S3,583,1
+Infinix,Hot 10,584,1
+Infinix,Hot 10,585,1
+Infinix,Note 7,586,1
+Infinix,Hot 7,588,1
+Infinix,Hot S3,591,1
+Infinix,Hot 8,593,1
+Infinix,Note 5 Stylus,595,1
+Infinix,Note 5,597,1
+Infinix,S4,598,1
+Infinix,Note 7,599,1
+POCO,C31,602,1
+OPPO,A16,603,1
+realme,9 5G,608,1
+realme,9 5G,609,1
+realme,C35,613,1
+OPPO,A53,1,2
+OPPO,A53,2,2
+OPPO,A53,3,2
+OPPO,F7,5,2
+LG,Velvet Dual Screen ,5,2
+LG,G8X ,5,2
+LG,G7+ ThinQ ,5,2
+ASUS,6Z ,5,2
+Nokia,8 Sirocco ,5,2
+SAMSUNG,Galaxy A22 ,5,2
+SAMSUNG,Galaxy A21s ,5,2
+SAMSUNG,Galaxy A12 ,5,2
+SAMSUNG,Galaxy M12 ,5,2
+SAMSUNG,Galaxy A70 ,5,2
+SAMSUNG,M21 2021 Edition,5,2
+SAMSUNG,Galaxy M32 ,5,2
+SAMSUNG,Galaxy M30s ,5,2
+SAMSUNG,Galaxy A7 ,5,2
+Lenovo,K10 Note ,5,2
+Motorola,Razr ,5,2
+Xiaomi,Mi A2 ,5,2
+vivo,X21,5,2
+Infinix,Note 10,5,2
+LG,G7+ ThinQ ,6,2
+Nokia,9,6,2
+Nokia,8.1,6,2
+SAMSUNG,Galaxy A12 ,6,2
+SAMSUNG,Galaxy A21s ,6,2
+SAMSUNG,Galaxy A7 ,6,2
+SAMSUNG,Galaxy A70 ,6,2
+SAMSUNG,Galaxy M30s ,6,2
+OPPO,A53s 5G,8,2
+OPPO,A53s 5G,9,2
+OPPO,A31,11,2
+OPPO,A74 5G,12,2
+SAMSUNG,Galaxy F42 5G ,13,2
+OPPO,A54,14,2
+OPPO,A54,18,2
+OPPO,A54,19,2
+OPPO,A31,21,2
+OPPO,F17,22,2
+OPPO,A53,23,2
+OPPO,F17,26,2
+OPPO,A53,28,2
+OPPO,A74 5G BLACK,29,2
+SAMSUNG,Galaxy S9 Plus ,31,2
+SAMSUNG,Galaxy S8 Plus ,31,2
+Xiaomi,Mi 10i ,31,2
+realme,9 Pro 5G,31,2
+realme,9 Pro+ 5G,31,2
+OPPO,F19,35,2
+realme,X7 5G ,35,2
+OPPO,F19,37,2
+ASUS,ZenFone 5Z ,37,2
+SAMSUNG,Galaxy M40 ,37,2
+SAMSUNG,Galaxy M21 ,37,2
+OPPO,A55,39,2
+OPPO,F7,40,2
+Xiaomi,Mi A2 ,40,2
+OPPO,F19,44,2
+SAMSUNG,Galaxy S10e ,44,2
+realme,9i,44,2
+OPPO,F17,46,2
+OPPO,F11,51,2
+Apple,iPhone 12 Pro ,58,2
+Motorola,Razr ,58,2
+Xiaomi,Mi A2 ,58,2
+Xiaomi,REDMI 9 Power ,59,2
+Infinix,Note 10,60,2
+OPPO,A52,64,2
+OPPO,A52,65,2
+SAMSUNG,Galaxy A22 5G ,68,2
+Motorola,One Fusion+ ,70,2
+SAMSUNG,Galaxy A12 ,76,2
+SAMSUNG,Galaxy M12 ,76,2
+SAMSUNG,Galaxy M30s ,76,2
+OPPO,F11,78,2
+OPPO,F11 Pro,79,2
+OPPO,F11 Pro,80,2
+realme,9 Pro 5G,80,2
+realme,9 Pro+ 5G,80,2
+OPPO,F11 Pro,81,2
+OPPO,F11,83,2
+ASUS,6Z ,84,2
+Apple,iPhone 12 Pro ,84,2
+SAMSUNG,Galaxy A21s ,84,2
+realme,X3 ,85,2
+vivo,Y12G ,85,2
+Xiaomi,Redmi K20 Pro ,85,2
+OPPO,Reno 10x Zoom,87,2
+OPPO,Reno 10x Zoom,89,2
+SAMSUNG,M31 ,90,2
+SAMSUNG,Galaxy Note 9 ,90,2
+SAMSUNG,M31 Prime ,90,2
+OPPO,F9 Pro,91,2
+HTC,U11+ ,92,2
+HTC,U11,92,2
+Google Pixel,4a ,97,2
+LG,Velvet Dual Screen ,101,2
+LG,G7+ ThinQ ,110,2
+LG,V40 ThinQ ,113,2
+LG,Velvet ,117,2
+LG,W41 Pro ,119,2
+SAMSUNG,Galaxy F62 ,119,2
+ASUS,ZenFone 5Z ,131,2
+POCO,M3 Pro 5G ,133,2
+POCO,M4 Pro 5G,133,2
+SAMSUNG,Galaxy F23 5G,136,2
+POCO,M3 Pro 5G ,138,2
+POCO,M4 Pro,138,2
+POCO,M4 Pro 5G,138,2
+realme,Narzo 30 5G ,140,2
+realme,Narzo 30 ,140,2
+realme,Narzo 30 5G ,141,2
+realme,Narzo 30 ,141,2
+realme,8s 5G ,146,2
+realme,8s 5G ,147,2
+realme,8 Pro ,151,2
+realme,8 Pro ,153,2
+realme,8,154,2
+realme,8,155,2
+realme,X7 5G ,160,2
+SAMSUNG,Galaxy F41 ,165,2
+OPPO,A55,166,2
+Xiaomi,Redmi K20 ,167,2
+Xiaomi,Redmi K20 Pro ,167,2
+realme,X3 ,172,2
+realme,1,179,2
+vivo,S1,179,2
+realme,GT Master Edition ,180,2
+realme,6,182,2
+Xiaomi,Mi 11X ,183,2
+realme,X2 ,184,2
+realme,1,185,2
+realme,X2 ,187,2
+realme,8 Pro ,188,2
+SAMSUNG,Galaxy F41 ,191,2
+realme,7 Pro ,193,2
+realme,6 Pro ,201,2
+realme,6 Pro ,207,2
+realme,1,208,2
+HTC,U11,208,2
+realme,X2 ,209,2
+SAMSUNG,Galaxy F23 5G,212,2
+realme,6 Pro ,213,2
+Xiaomi,Redmi Note 7 Pro ,220,2
+Xiaomi,Redmi Note 9 Pro ,227,2
+Nokia,8.1,248,2
+Apple,iPhone 12 Pro ,263,2
+Apple,iPhone 12 Pro ,265,2
+SAMSUNG,Galaxy F22 ,268,2
+SAMSUNG,Galaxy F22 ,269,2
+SAMSUNG,Galaxy M31s ,272,2
+SAMSUNG,GALAXY M51 ,273,2
+SAMSUNG,Galaxy A22 5G ,274,2
+SAMSUNG,Galaxy A22 ,274,2
+SAMSUNG,Galaxy M31s ,276,2
+SAMSUNG,Galaxy M31 ,277,2
+SAMSUNG,M31 Prime ,277,2
+Xiaomi,Redmi Note 7 Pro ,277,2
+SAMSUNG,Galaxy A52 ,279,2
+SAMSUNG,Galaxy A52s 5G ,279,2
+SAMSUNG,Galaxy M32 ,280,2
+SAMSUNG,Galaxy A31 ,281,2
+SAMSUNG,Galaxy A51 ,281,2
+SAMSUNG,Galaxy F62 ,283,2
+SAMSUNG,Galaxy A32 ,284,2
+SAMSUNG,Galaxy A52 ,284,2
+SAMSUNG,Galaxy F62 ,285,2
+SAMSUNG,Galaxy A32 ,286,2
+SAMSUNG,Galaxy A52 ,286,2
+SAMSUNG,Galaxy S10e ,287,2
+SAMSUNG,Galaxy A22 5G ,288,2
+SAMSUNG,Galaxy A52s 5G ,289,2
+SAMSUNG,Galaxy A32 ,289,2
+SAMSUNG,Galaxy A52 ,289,2
+SAMSUNG,Galaxy Note10 Lite ,291,2
+SAMSUNG,Galaxy A51 ,292,2
+SAMSUNG,Galaxy A70s ,293,2
+SAMSUNG,Galaxy M31 ,294,2
+SAMSUNG,Galaxy A50s ,296,2
+SAMSUNG,Galaxy A31 ,299,2
+SAMSUNG,Galaxy A51 ,299,2
+SAMSUNG,Galaxy A50s ,299,2
+SAMSUNG,Galaxy A70s ,299,2
+SAMSUNG,Galaxy A50s ,303,2
+SAMSUNG,Galaxy A51 ,303,2
+SAMSUNG,Galaxy A70s ,303,2
+SAMSUNG,Galaxy M30 ,304,2
+SAMSUNG,Galaxy M42 5G ,305,2
+SAMSUNG,Galaxy A9 ,306,2
+SAMSUNG,Galaxy M40 ,308,2
+SAMSUNG,Galaxy F41 ,316,2
+SAMSUNG,Galaxy Note10 Lite ,319,2
+SAMSUNG,Galaxy M42 5G ,320,2
+SAMSUNG,Galaxy M21 ,324,2
+SAMSUNG,Galaxy A9 ,326,2
+SAMSUNG,Galaxy Note 9 ,328,2
+SAMSUNG,M31 Prime ,330,2
+SAMSUNG,Galaxy Note 9 ,332,2
+realme,9i,334,2
+SAMSUNG,Galaxy S9 Plus ,338,2
+SAMSUNG,Galaxy Note10 Lite ,340,2
+SAMSUNG,Galaxy S9 Plus ,345,2
+SAMSUNG,Galaxy S9 Plus ,352,2
+SAMSUNG,Galaxy Note 9 ,353,2
+SAMSUNG,Galaxy M21 ,365,2
+SAMSUNG,Galaxy M30 ,366,2
+Xiaomi,Mi 10T ,367,2
+Xiaomi,Mi 11X ,367,2
+SAMSUNG,Galaxy M40 ,375,2
+Motorola,G60 ,389,2
+Motorola,G40 Fusion ,389,2
+Motorola,G40 Fusion ,390,2
+Motorola,G60 ,390,2
+Motorola,Edge 20 Fusion ,394,2
+Motorola,Edge 20 Fusion ,396,2
+Motorola,G5,402,2
+Motorola,One Fusion+ ,405,2
+Xiaomi,Redmi Note 7 Pro ,405,2
+HTC,U11,406,2
+Motorola,G5,408,2
+POCO,X3 Pro ,424,2
+POCO,F1,424,2
+Infinix,Note 11 ,424,2
+POCO,X3 Pro ,425,2
+POCO,M3 Pro 5G ,426,2
+POCO,M4 Pro,426,2
+POCO,M4 Pro 5G,426,2
+vivo,Y20G ,429,2
+vivo,Y20G 2021 ,429,2
+Infinix,Hot 10,429,2
+vivo,Y21 ,433,2
+Xiaomi,REDMI Note 10S ,444,2
+Xiaomi,Mi 10i ,455,2
+POCO,X2 Special Edition,455,2
+Xiaomi,Mi 10T ,457,2
+Xiaomi,Mi 11 Lite ,458,2
+Xiaomi,11 Lite NE,458,2
+Xiaomi,Mi 11 Lite ,459,2
+Xiaomi,11 Lite NE,459,2
+Xiaomi,Mi 11 Lite ,460,2
+Xiaomi,11 Lite NE,460,2
+Xiaomi,Mi 11X ,461,2
+Xiaomi,MI 11X 5G ,462,2
+Xiaomi,MI 11X 5G ,463,2
+Xiaomi,MI 11X 5G ,464,2
+Xiaomi,REDMI 9 Power ,477,2
+Xiaomi,Redmi K20 ,482,2
+Xiaomi,REDMI Note 10 Pro ,483,2
+Xiaomi,REDMI Note 10 Pro ,484,2
+Xiaomi,REDMI Note 10S ,485,2
+HTC,U11,494,2
+Nokia,XR 20,512,2
+OPPO,A55,513,2
+POCO,F3 GT,514,2
+POCO,F3 GT,515,2
+POCO,M2 Pro,518,2
+POCO,M2 Pro,519,2
+POCO,M2  ,520,2
+POCO,M2  ,521,2
+POCO,M2  ,522,2
+POCO,X2,523,2
+POCO,X2 Special Edition,523,2
+POCO,X2,524,2
+POCO,F1,525,2
+realme,GT Master Edition ,526,2
+SAMSUNG,Galaxy F42 5G ,537,2
+Xiaomi,11i 5G,554,2
+Xiaomi,11i Hypercharge 5G,554,2
+Xiaomi,11i 5G,555,2
+Xiaomi,11i Hypercharge 5G,555,2
+Xiaomi,11i 5G,556,2
+Xiaomi,11i Hypercharge 5G,557,2
+Xiaomi,Redmi Note 11T 5G,558,2
+Xiaomi,11 Lite NE,560,2
+Infinix,Note 10,567,2
+Infinix,Hot 10,569,2
+Infinix,Note 11 ,570,2
+Infinix,Note 11,573,2
+Infinix,Hot 10,584,2
+Infinix,Zero 5 Pro,600,2
+realme,9 5G,608,2
+realme,9 5G,609,2
+realme,9 Pro 5G,610,2
+realme,9 5G SE,611,2
+realme,9 5G SE,612,2
+SAMSUNG,M52 5G,615,2
+SAMSUNG,M52 5G,616,2
+OPPO,A33,1,3
+OPPO,A33,2,3
+OPPO,A12,4,3
+SAMSUNG,Galaxy A20 ,4,3
+OPPO,A12,5,3
+OPPO,A5s,5,3
+OPPO,A57,5,3
+OPPO,F5 Youth,5,3
+OPPO,A83,5,3
+LG,W11 ,5,3
+LG,W10 Alpha ,5,3
+LG,Q Stylus ,5,3
+LG,Q6 ,5,3
+LG,Q7 ,5,3
+ASUS,ZenFone Max M2 ,5,3
+ASUS,Zenfone 4 Selfie ,5,3
+ASUS,ZenFone Max M1 ,5,3
+ASUS,Zenfone Max ZC550KL ,5,3
+ASUS,Zenfone Max Pro M1 ,5,3
+realme,3,5,3
+GIONEE,Max Pro ,5,3
+GIONEE,F11 ,5,3
+GIONEE,F9 ,5,3
+GIONEE,A1 Lite ,5,3
+GIONEE,F9 Plus ,5,3
+GIONEE,F10 ,5,3
+Nokia,3.2,5,3
+Nokia,5.1 Plus ,5,3
+Nokia,2.2,5,3
+Nokia,3.1,5,3
+Nokia,5.1,5,3
+SAMSUNG,M02s ,5,3
+SAMSUNG,Galaxy M02 ,5,3
+SAMSUNG,Galaxy M11 ,5,3
+SAMSUNG,Galaxy A03s ,5,3
+SAMSUNG,Galaxy A10s ,5,3
+SAMSUNG,Galaxy J7 Nxt ,5,3
+SAMSUNG,Galaxy A20 ,5,3
+SAMSUNG,Galaxy M01 ,5,3
+SAMSUNG,Galaxy J4 ,5,3
+SAMSUNG,Galaxy J5 Prime ,5,3
+SAMSUNG,Galaxy J6 ,5,3
+SAMSUNG,Galaxy J7 Prime 2 ,5,3
+SAMSUNG,Galaxy J7 Prime ,5,3
+SAMSUNG,Galaxy A20s ,5,3
+SAMSUNG,Galaxy M30 ,5,3
+Lenovo,K9 ,5,3
+Lenovo,A5 ,5,3
+Lenovo,A6 Note ,5,3
+Lenovo,Z2 Plus ,5,3
+Motorola,E5 Plus,5,3
+Motorola,Z Play,5,3
+Xiaomi,Redmi 5 ,5,3
+Xiaomi,Redmi Note 4 ,5,3
+Xiaomi,Redmi Note 5 ,5,3
+Xiaomi,Redmi Y2 ,5,3
+OPPO,A16,5,3
+OPPO,A16k,5,3
+OPPO,A12,6,3
+OPPO,A5s,6,3
+HTC,Wildfire X ,6,3
+ASUS,ZenFone Max M2 ,6,3
+ASUS,ZenFone Max Pro M2 ,6,3
+ASUS,Zenfone Max ZC550KL ,6,3
+ASUS,Zenfone Max Pro M1 ,6,3
+GIONEE,Max Pro ,6,3
+GIONEE,F11 ,6,3
+GIONEE,M5 Lite 4G ,6,3
+GIONEE,F10 ,6,3
+GIONEE,F9 Plus ,6,3
+GIONEE,F9 ,6,3
+Nokia,C20 Plus ,6,3
+Nokia,3.1 Plus ,6,3
+SAMSUNG,M02s ,6,3
+SAMSUNG,Galaxy M01 ,6,3
+SAMSUNG,Galaxy A03s ,6,3
+SAMSUNG,Galaxy J6 ,6,3
+SAMSUNG,Galaxy M02 ,6,3
+SAMSUNG,Galaxy J4 ,6,3
+SAMSUNG,Galaxy A20s ,6,3
+SAMSUNG,Galaxy A10s ,6,3
+SAMSUNG,Galaxy M30 ,6,3
+Lenovo,K9 ,6,3
+Lenovo,A6 Note ,6,3
+Xiaomi,Redmi Y2 ,6,3
+OPPO,A16,6,3
+OPPO,A16k,6,3
+OPPO,A12,7,3
+Nokia,6,13,3
+POCO,C3 ,13,3
+vivo,Y69,13,3
+OPPO,A15,25,3
+realme,3,25,3
+OPPO,A15,27,3
+Xiaomi,Redmi 8A Dual ,30,3
+Xiaomi,Redmi 9A ,31,3
+Infinix,Smart 4 Plus,31,3
+OPPO,A15,32,3
+OPPO,A3s,40,3
+OPPO,A5s,40,3
+LG,G4 ,40,3
+ASUS,Zenfone Selfie ,40,3
+GIONEE,Max Pro ,40,3
+SAMSUNG,Galaxy M02 ,40,3
+SAMSUNG,M02s ,40,3
+SAMSUNG,Galaxy A20 ,40,3
+Lenovo,Vibe Shot ,40,3
+Xiaomi,Redmi 6 Pro ,40,3
+realme,3i ,52,3
+realme,C2 ,52,3
+SAMSUNG,Galaxy F02s ,52,3
+GIONEE,S6 ,57,3
+Apple,iPhone 7 Plus ,57,3
+Xiaomi,Redmi Note 5 ,57,3
+Xiaomi,Redmi Y1 ,57,3
+Xiaomi,Redmi Y2 ,57,3
+OPPO,A57,58,3
+OPPO,F5 Youth,58,3
+LG,Q6 ,58,3
+ASUS,ZenFone Max M1 ,58,3
+ASUS,Zenfone 4 Selfie ,58,3
+ASUS,Zenfone Selfie ,58,3
+GIONEE,A1 Lite ,58,3
+GIONEE,Marathon M5 lite CDMA ,58,3
+GIONEE,Marathon M5 Lite ,58,3
+GIONEE,P7 Max ,58,3
+GIONEE,S6 ,58,3
+Nokia,6.1,58,3
+Nokia,5.1,58,3
+Apple,iPhone 7 Plus ,58,3
+SAMSUNG,Galaxy J7 Prime ,58,3
+SAMSUNG,Galaxy J7 Nxt ,58,3
+SAMSUNG,Galaxy A20 ,58,3
+SAMSUNG,Galaxy J4 ,58,3
+SAMSUNG,Galaxy J6 ,58,3
+SAMSUNG,Galaxy J7 Prime 2 ,58,3
+SAMSUNG,Galaxy J5 Prime ,58,3
+Lenovo,A5 ,58,3
+Lenovo,Vibe K5 Note ,58,3
+Lenovo,K6 Note ,58,3
+Lenovo,P2 ,58,3
+Motorola,M,58,3
+Xiaomi,Redmi 5 ,58,3
+Xiaomi,Redmi Note 4 ,58,3
+Xiaomi,Redmi Y2 ,58,3
+vivo,Y69,58,3
+OPPO,A3s,60,3
+OPPO,A83,61,3
+GIONEE,F9 ,61,3
+SAMSUNG,Galaxy A20s ,67,3
+SAMSUNG,Galaxy A10s ,67,3
+OPPO,F1S,68,3
+ASUS,Zenfone Selfie ,68,3
+ASUS,Zenfone Max Pro M1 ,68,3
+GIONEE,P7 Max ,68,3
+Nokia,C20 Plus ,68,3
+SAMSUNG,Galaxy M02 ,68,3
+Lenovo,Vibe Shot ,68,3
+Lenovo,Vibe K5 Note ,68,3
+Lenovo,P2 ,68,3
+Lenovo,Vibe P1 Turbo ,68,3
+Lenovo,K6 Note ,68,3
+Motorola,M,68,3
+realme,3,72,3
+realme,2,72,3
+realme,3i ,72,3
+ASUS,Zenfone Selfie ,76,3
+Nokia,5.1 Plus ,76,3
+Nokia,3.1 Plus ,76,3
+Nokia,3.1,76,3
+SAMSUNG,Galaxy A03s ,76,3
+Lenovo,Z2 Plus ,76,3
+Motorola,Z Play,76,3
+Motorola,G4 Plus,76,3
+OPPO,A16,76,3
+OPPO,A16k,76,3
+LG,W30 ,80,3
+vivo,U10,81,3
+ASUS,ZenFone Max M2 ,84,3
+GIONEE,S6 ,84,3
+Nokia,6,84,3
+Apple,iPhone 7 Plus ,84,3
+Lenovo,Vibe K5 Note ,84,3
+Lenovo,K6 Note ,84,3
+Lenovo,Vibe P1 Turbo ,84,3
+Motorola,M,84,3
+vivo,Y12s ,85,3
+Apple,iPhone 7 Plus ,87,3
+SAMSUNG,Galaxy Note 3 ,87,3
+SAMSUNG,Galaxy M10 ,90,3
+SAMSUNG,Galaxy M20 ,90,3
+HTC,Wildfire X ,93,3
+LG,Q7 ,104,3
+LG,W10 ,105,3
+LG,W30 ,108,3
+LG,Q6 ,110,3
+LG,W30 ,113,3
+realme,Narzo 30A ,119,3
+LG,G4 ,125,3
+ASUS,Zenfone Selfie ,127,3
+LG,G4 ,128,3
+LG,Q7 ,129,3
+LG,G4 ,130,3
+ASUS,Zenfone 4 Selfie ,134,3
+ASUS,ZenFone Max Pro M2 ,135,3
+ASUS,Zenfone Selfie ,136,3
+Infinix,Hot S3X,136,3
+ASUS,Zenfone Max ZC550KL ,137,3
+realme,C21 ,142,3
+realme,C21 ,143,3
+realme,Narzo 30A ,148,3
+realme,C15 ,152,3
+realme,C12 ,152,3
+realme,C15 Qualcomm Edition ,152,3
+realme,C12 ,156,3
+realme,C15 Qualcomm Edition ,156,3
+realme,C15 ,156,3
+realme,C3 ,163,3
+realme,2,179,3
+SAMSUNG,Galaxy F02s ,179,3
+realme,C3 ,189,3
+realme,C3 ,190,3
+realme,Narzo 20A ,196,3
+realme,Narzo 20A ,197,3
+realme,Narzo 10A ,198,3
+realme,Narzo 10A ,202,3
+realme,U1 ,204,3
+realme,U1 ,205,3
+realme,C2 ,210,3
+realme,C2 ,211,3
+realme,3,214,3
+POCO,C31,222,3
+GIONEE,S6S ,224,3
+GIONEE,S6S ,226,3
+Infinix,Note 4,227,3
+Nokia,C3 ,233,3
+Nokia,C3 ,234,3
+Nokia,3.1 Plus ,236,3
+Nokia,6.1,239,3
+Nokia,5.1,245,3
+Nokia,3.1 Plus ,247,3
+Nokia,6.1,248,3
+Nokia,2.2,249,3
+Nokia,3.2,249,3
+Nokia,6,251,3
+Nokia,4.2,257,3
+Infinix,S4,266,3
+SAMSUNG,Galaxy M01s ,280,3
+SAMSUNG,Galaxy M11 ,288,3
+Infinix,Smart 4 Plus,288,3
+SAMSUNG,Galaxy M11 ,295,3
+SAMSUNG,Galaxy M10S ,295,3
+Xiaomi,9A Sport,295,3
+SAMSUNG,Galaxy F02s ,297,3
+SAMSUNG,Galaxy S6 Edge ,311,3
+SAMSUNG,Galaxy S6 Edge ,312,3
+SAMSUNG,Galaxy S6 ,312,3
+SAMSUNG,Galaxy A7-2017 ,313,3
+SAMSUNG,Galaxy A5-2017 ,313,3
+SAMSUNG,Galaxy M10S ,325,3
+SAMSUNG,Galaxy M10 ,331,3
+SAMSUNG,Galaxy Note 4 ,331,3
+SAMSUNG,Galaxy M20 ,331,3
+SAMSUNG,Galaxy A5-2017 ,343,3
+SAMSUNG,Galaxy A7-2017 ,343,3
+SAMSUNG,Galaxy Note 3 ,348,3
+SAMSUNG,Galaxy S6 Edge ,349,3
+SAMSUNG,Galaxy S6 ,349,3
+SAMSUNG,Galaxy Note Edge ,368,3
+SAMSUNG,Galaxy Note 4 ,368,3
+SAMSUNG,Galaxy Note 4 ,371,3
+SAMSUNG,Galaxy Note 4 ,374,3
+Lenovo,K8 Plus ,379,3
+Lenovo,K8 Note ,379,3
+Lenovo,K8 ,379,3
+Motorola,E5 Plus,379,3
+Motorola,G6 Play,379,3
+Lenovo,K8 Plus ,380,3
+Lenovo,K8 Note ,380,3
+Lenovo,K8 ,380,3
+Xiaomi,Redmi Y2 ,381,3
+Lenovo,K6 Power ,382,3
+Lenovo,Vibe Z2 Pro ,384,3
+Motorola,X4,395,3
+Motorola,G6,399,3
+Motorola,G6 Play,399,3
+Xiaomi,Redmi Note 7 ,406,3
+POCO,C3 ,409,3
+Motorola,G5 Plus,422,3
+POCO,C3 ,428,3
+Infinix,Hot 10 Play,429,3
+Infinix,S4,432,3
+vivo,V20 SE ,442,3
+Xiaomi,9A Sport,453,3
+Xiaomi,Redmi 5 ,468,3
+Xiaomi,Redmi Note 7 ,471,3
+Xiaomi,Redmi 8A Dual ,473,3
+Xiaomi,Redmi 9A ,474,3
+Xiaomi,Redmi 9A ,480,3
+Xiaomi,Redmi Y3 ,492,3
+Xiaomi,Redmi Y3 ,493,3
+HTC,628,498,3
+HTC,One E9+,502,3
+HTC,One E9+,503,3
+HTC,One E9+,504,3
+Infinix,Hot 10 Play,561,3
+Infinix,Hot 10 Play,562,3
+Infinix,Hot 10 Play,563,3
+Infinix,Smart 4 Plus,568,3
+Infinix,Smart 4 Plus,569,3
+Infinix,Note 5,576,3
+Infinix,Hot S3X,576,3
+Infinix,Note 4,576,3
+Infinix,Smart 2,577,3
+Infinix,Hot 6 Pro,577,3
+Infinix,Hot S3,577,3
+Infinix,Note 4,578,3
+Infinix,Note 5,578,3
+Infinix,Smart 2,580,3
+Infinix,Hot 6 Pro,580,3
+Infinix,Hot S3,580,3
+Infinix,Hot S3,583,3
+Infinix,Hot S3X,587,3
+Infinix,Hot 6 Pro,589,3
+Infinix,Smart 2,589,3
+Infinix,Smart 2,590,3
+Infinix,Hot S3,591,3
+Infinix,Hot 6 Pro,592,3
+Infinix,S4,598,3
+POCO,C31,602,3
+OPPO,A11K,4,4
+OPPO,A5s,5,4
+OPPO,A1K,5,4
+ASUS,Zenfone Max ,5,4
+GIONEE,Max ,5,4
+GIONEE,F8 Neo ,5,4
+Apple,iPhone 7 ,5,4
+SAMSUNG,Galaxy M02 ,5,4
+SAMSUNG,M01 core ,5,4
+SAMSUNG,Galaxy J4 Plus ,5,4
+SAMSUNG,Galaxy A10s ,5,4
+SAMSUNG,Galaxy A8 ,5,4
+SAMSUNG,Galaxy A10 ,5,4
+Lenovo,A7 ,5,4
+Motorola,X 2nd Generation ,5,4
+Xiaomi,Redmi 6A ,5,4
+SAMSUNG,Galaxy A03 Core,5,4
+OPPO,A5s,6,4
+ASUS,Zenfone Go ,6,4
+ASUS,Zenfone Max ,6,4
+GIONEE,F8 Neo ,6,4
+Nokia,C20 Plus ,6,4
+SAMSUNG,Galaxy M02 ,6,4
+SAMSUNG,M01 core ,6,4
+SAMSUNG,Galaxy A10 ,6,4
+SAMSUNG,Galaxy J4 Plus ,6,4
+SAMSUNG,Galaxy A10s ,6,4
+Lenovo,A7 ,6,4
+SAMSUNG,Galaxy A03 Core,6,4
+OPPO,A11K,7,4
+OPPO,A15,25,4
+OPPO,A15,27,4
+Xiaomi,Redmi 8A ,31,4
+Xiaomi,Redmi 9A ,31,4
+Infinix,Smart 5A,31,4
+Infinix,Smart 4,31,4
+Infinix,Smart 3 Plus,31,4
+OPPO,A15,32,4
+OPPO,A5s,40,4
+OPPO,A1K,40,4
+GIONEE,Max ,40,4
+GIONEE,F8 Neo ,40,4
+SAMSUNG,Galaxy A10 ,40,4
+SAMSUNG,Galaxy M02 ,40,4
+SAMSUNG,M01 core ,40,4
+SAMSUNG,Galaxy Alpha ,56,4
+Apple,iPhone 7 ,57,4
+Apple,iPhone 6s ,57,4
+Apple,iPhone 6s Plus ,57,4
+Xiaomi,Redmi 6A ,57,4
+ASUS,Zenfone Go 5.5 ,58,4
+Apple,iPhone 7 ,58,4
+Apple,iPhone 6s ,58,4
+Apple,iPhone 6s Plus ,58,4
+SAMSUNG,Galaxy A10 ,58,4
+SAMSUNG,Galaxy J4 Plus ,58,4
+SAMSUNG,Galaxy A8 ,58,4
+Lenovo,X2-AP ,58,4
+Xiaomi,Redmi 6A ,58,4
+Infinix,Smart 7,60,4
+Infinix,Smart 5,60,4
+SAMSUNG,Galaxy A10s ,67,4
+ASUS,Zenfone Go ,68,4
+Nokia,C20 Plus ,68,4
+SAMSUNG,Galaxy M02 ,68,4
+Lenovo,VIBE P1 ,68,4
+Lenovo,S90 Or Sisley S90 ,68,4
+SAMSUNG,Galaxy A8 ,76,4
+Lenovo,X2-AP ,76,4
+Apple,iPhone 6s ,84,4
+Apple,iPhone 7 ,84,4
+Apple,iPhone 6s Plus ,84,4
+HTC,One 802D,84,4
+Apple,iPhone 7 ,87,4
+Google Pixel,Nexus 5X ,115,4
+ASUS,Zenfone Go ,132,4
+realme,C11 2021 ,138,4
+realme,C20 ,138,4
+realme,C11 2021 ,139,4
+realme,C20 ,139,4
+realme,C11 ,157,4
+realme,C11 ,158,4
+realme,Narzo 50i ,166,4
+realme,Narzo 50i ,167,4
+Xiaomi,9A Sport,167,4
+Xiaomi,Redmi 7 ,177,4
+realme,C2 ,179,4
+Xiaomi,Redmi 7 ,181,4
+GIONEE,Max ,222,4
+Nokia,2.3,234,4
+Nokia,2.3,236,4
+Nokia,2.3,246,4
+Apple,iPhone 6s ,266,4
+Apple,iPhone 6s Plus ,266,4
+Infinix,Smart 4,288,4
+SAMSUNG,Galaxy Alpha ,331,4
+SAMSUNG,Galaxy Alpha ,339,4
+Infinix,Smart HD 2021,357,4
+Motorola,E7 Power ,387,4
+Motorola,E7 Power ,391,4
+Infinix,Smart 6,429,4
+Infinix,Smart 5,429,4
+vivo,Y20G ,430,4
+vivo,Y21 ,433,4
+Xiaomi,Redmi 7A ,469,4
+Xiaomi,Redmi 8A ,472,4
+Xiaomi,Redmi 9A ,480,4
+Xiaomi,Redmi 9A ,481,4
+Infinix,Smart 8,561,4
+Infinix,Smart 5,561,4
+Infinix,Smart 5,563,4
+Infinix,Smart 5A,568,4
+Infinix,Smart 4,568,4
+Infinix,Smart 5A,569,4
+Infinix,Smart 4,569,4
+Infinix,Smart 3 Plus,579,4
+Infinix,Smart HD 2021,583,4
+Infinix,Smart 3 Plus,588,4
+OPPO,F5,5,5
+GIONEE,S11 Lite ,5,5
+SAMSUNG,Galaxy J7 Duo ,5,5
+SAMSUNG,Galaxy A9 Pro ,5,5
+SAMSUNG,Galaxy A6 ,5,5
+vivo,V9 Youth,5,5
+SAMSUNG,Galaxy J7 Duo ,6,5
+vivo,Y95,39,5
+OPPO,A5,52,5
+GIONEE,S6 Pro ,57,5
+OPPO,F5,58,5
+LG,G5 ,58,5
+GIONEE,S11 Lite ,58,5
+GIONEE,S10 Lite ,58,5
+Nokia,6.1,58,5
+SAMSUNG,Galaxy J7 Duo ,58,5
+SAMSUNG,Galaxy A6 ,58,5
+SAMSUNG,Galaxy A9 Pro ,58,5
+Lenovo,K6 Note ,58,5
+Lenovo,P2 ,58,5
+vivo,Y83,58,5
+vivo,V9 Youth,58,5
+vivo,Y1s ,62,5
+vivo,Y1S ,62,5
+Lenovo,Vibe K5 Note ,68,5
+Lenovo,K6 Note ,68,5
+Lenovo,K6 Power ,68,5
+Lenovo,P2 ,68,5
+OPPO,A5,72,5
+Nokia,6.1,76,5
+SAMSUNG,Galaxy A9 Pro ,76,5
+Google Pixel,Very Silver,84,5
+LG,G5 ,84,5
+SAMSUNG,Galaxy Note 5 ,84,5
+Lenovo,Vibe K5 Note ,84,5
+Lenovo,K6 Note ,84,5
+LG,G5 ,111,5
+realme,Narzo 50A ,168,5
+GIONEE,S11 Lite ,223,5
+Nokia,6.1,239,5
+SAMSUNG,Galaxy Note 5 ,312,5
+SAMSUNG,Galaxy Note 5 ,327,5
+SAMSUNG,Galaxy Note 5 ,346,5
+SAMSUNG,Galaxy S7 Edge ,346,5
+SAMSUNG,Galaxy S7 ,346,5
+SAMSUNG,Galaxy S6 Edge+ ,346,5
+SAMSUNG,Galaxy Note 5 ,349,5
+SAMSUNG,Galaxy S7 ,349,5
+SAMSUNG,Galaxy Note 5 Dual ,349,5
+SAMSUNG,Galaxy S7 Edge ,349,5
+SAMSUNG,Galaxy S6 Edge+ ,349,5
+SAMSUNG,Galaxy S7 Edge ,355,5
+SAMSUNG,Galaxy S7 Edge ,360,5
+SAMSUNG,Galaxy S7 ,360,5
+SAMSUNG,Galaxy S7 Edge ,378,5
+Lenovo,K8 Plus ,379,5
+Motorola,G5s,379,5
+Lenovo,K8 Plus ,380,5
+Lenovo,K6 POWER ,386,5
+Motorola,G5s,412,5
+Motorola,G5s,415,5
+vivo,Y20 ,430,5
+vivo,Y51A ,440,5
+HTC,10,496,5
+HTC,10,497,5
+vivo,Y94,549,5
+vivo,V7  ,552,5
+OPPO,A71 New Edition,5,6
+OPPO,A71,5,6
+ASUS,Zenfone Selfie ,5,6
+GIONEE,X1s ,5,6
+GIONEE,F103 3Gb Version ,5,6
+SAMSUNG,Galaxy J7 Prime ,5,6
+SAMSUNG,Galaxy A7 2016 Edition ,5,6
+SAMSUNG,Galaxy On Nxt ,5,6
+SAMSUNG,Galaxy On8 ,5,6
+OPPO,A71k,6,6
+GIONEE,X1s ,6,6
+Nokia,5,13,6
+OPPO,A71,58,6
+OPPO,A71k,58,6
+OPPO,F1,58,6
+ASUS,Zenfone Selfie ,58,6
+GIONEE,F103 Pro ,58,6
+GIONEE,X1s ,58,6
+GIONEE,S Plus ,58,6
+SAMSUNG,Galaxy A7 2016 Edition ,58,6
+SAMSUNG,Galaxy On Nxt ,58,6
+Lenovo,Vibe K5 Plus ,58,6
+ASUS,Zenfone Selfie ,60,6
+GIONEE,F103 Pro ,68,6
+ASUS,Zenfone Selfie ,76,6
+GIONEE,F103 Pro ,76,6
+GIONEE,S Plus ,76,6
+GIONEE,F103 3GB Version ,76,6
+SAMSUNG,Galaxy A7 2016 Edition ,76,6
+Lenovo,K4 Note ,76,6
+ASUS,Zenfone Selfie ,84,6
+Nokia,5,84,6
+Lenovo,Vibe K5 Plus ,84,6
+LG,G Pro 2 ,111,6
+LG,Stylus 2 Plus ,111,6
+LG,Stylus 3 ,111,6
+ASUS,Zenfone Selfie ,127,6
+GIONEE,S Plus ,223,6
+Nokia,5,239,6
+Nokia,5,251,6
+Lenovo,Vibe K5 Plus ,381,6
+Lenovo,K4 Note ,383,6
+Motorola,G5,422,6
+vivo,Y20G ,430,6
+vivo,Y51A ,437,6
+vivo,V21e ,441,6
+Infinix,Hot 4 Pro,580,6
+Infinix,Hot 4 Pro,592,6
+Infinix,Hot 4 Pro,594,6
+OPPO,Neo 7 4G,5,7
+OPPO,R1 R829,5,7
+OPPO,Neo 5,5,7
+GIONEE,P5L ,5,7
+GIONEE,P5_W ,5,7
+SAMSUNG,M01 core ,5,7
+SAMSUNG,Galaxy J2 Core ,5,7
+SAMSUNG,Galaxy J7 ,5,7
+SAMSUNG,Galaxy E5 ,5,7
+SAMSUNG,Galaxy S3 Neo ,5,7
+Lenovo,A6600 ,5,7
+Motorola,2nd Generation ,5,7
+Motorola,G,5,7
+GIONEE,P5_W ,6,7
+GIONEE,P5L ,6,7
+GIONEE,Elife S5.1 ,6,7
+GIONEE,Elife E3 ,6,7
+SAMSUNG,M01 core ,6,7
+SAMSUNG,Galaxy J2 Core ,6,7
+SAMSUNG,Galaxy A2 Core ,6,7
+HTC,816G,6,7
+HTC,Desire 816G,6,7
+SAMSUNG,Galaxy A3 ,31,7
+GIONEE,Pioneer P5W ,40,7
+GIONEE,P5L ,40,7
+SAMSUNG,M01 core ,40,7
+GIONEE,P5L ,58,7
+GIONEE,P5_W ,58,7
+GIONEE,Pioneer P3S ,58,7
+Apple,iPhone 6 ,58,7
+SAMSUNG,Galaxy J2 Core ,58,7
+SAMSUNG,Galaxy A2 Core ,58,7
+SAMSUNG,Galaxy J7 ,58,7
+GIONEE,Pioneer P3S ,68,7
+OPPO,Neo 7 4G,76,7
+OPPO,R1 R829,76,7
+OPPO,Neo 5,76,7
+GIONEE,P5L ,76,7
+GIONEE,P5_W ,76,7
+GIONEE,Elife E7 Mini ,76,7
+GIONEE,Elife E3 ,76,7
+SAMSUNG,Galaxy J7 ,76,7
+SAMSUNG,Galaxy E5 ,76,7
+Lenovo,S850 ,76,7
+Lenovo,A6600 ,76,7
+Motorola,G 2nd Generation ,76,7
+HTC,816G,76,7
+Apple,iPhone 6 ,84,7
+Apple,iPhone 6 Plus ,84,7
+HTC,Desire 526G Plus,85,7
+LG,G4 Stylus 4G LTE ,111,7
+SAMSUNG,Galaxy E5 ,114,7
+GIONEE,P5L ,133,7
+SAMSUNG,Galaxy A3 ,184,7
+Motorola,C,184,7
+Lenovo,S850 ,223,7
+SAMSUNG,Galaxy A3 ,227,7
+Apple,iPhone 6 Plus ,266,7
+Apple,iPhone 6 ,266,7
+SAMSUNG,Galaxy A2 Core ,322,7
+SAMSUNG,Galaxy S3 Neo ,359,7
+SAMSUNG,Galaxy S3 Neo ,370,7
+HTC,820 G+,501,7
+HTC,620G,501,7
+HTC,526G Plus,505,7
+HTC,Desire 526G Plus,508,7
+OPPO,F5,5,8
+OPPO,F3 Plus,5,8
+ASUS,6Z ,5,8
+ASUS,Zenfone Max Pro M1 ,5,8
+Nokia,6.1 Plus ,5,8
+Nokia,5.1 Plus ,5,8
+SAMSUNG,Galaxy A21s ,5,8
+SAMSUNG,Galaxy A8 Star ,5,8
+SAMSUNG,Galaxy A50 ,5,8
+SAMSUNG,Galaxy A8 Plus ,5,8
+Xiaomi,Redmi Note 6 Pro ,5,8
+Infinix,Hot 10S,5,8
+ASUS,Zenfone Max Pro M1 ,6,8
+ASUS,ZenFone Max Pro M2 ,6,8
+GIONEE,M7 ,6,8
+Nokia,6.1 Plus ,6,8
+Nokia,5.1 Plus ,6,8
+SAMSUNG,Galaxy A21s ,6,8
+SAMSUNG,Galaxy A50 ,6,8
+Xiaomi,Redmi Note 6 Pro ,6,8
+Xiaomi,Redmi Note 11T 5G,13,8
+OPPO,K1,24,8
+SAMSUNG,Galaxy S9 Plus ,31,8
+SAMSUNG,Galaxy Note 8 ,31,8
+Infinix,Hot 7 Pro,31,8
+ASUS,ZenFone 5Z ,37,8
+OPPO,F5,40,8
+Xiaomi,Redmi Note 6 Pro ,40,8
+OPPO,K1,45,8
+Xiaomi,Redmi Note 6 Pro ,57,8
+OPPO,F3 Plus,58,8
+GIONEE,M7 ,58,8
+SAMSUNG,Galaxy A8 Plus ,58,8
+Xiaomi,Redmi Note 5 Pro ,58,8
+Infinix,Hot 10S,60,8
+OPPO,K3,62,8
+ASUS,Zenfone Max Pro M1 ,68,8
+OPPO,F9 Pro,69,8
+OPPO,F9 Pro,70,8
+OPPO,F9 Pro,71,8
+OPPO,K3,75,8
+SAMSUNG,Galaxy A21s ,76,8
+SAMSUNG,Galaxy A50 ,76,8
+SAMSUNG,Galaxy A8 Star ,76,8
+OPPO,F11 Pro,80,8
+OPPO,F11 Pro,81,8
+ASUS,6Z ,84,8
+SAMSUNG,Galaxy M31 ,90,8
+SAMSUNG,M31 Prime ,90,8
+Nokia,7.2,115,8
+POCO,M3 ,133,8
+ASUS,ZenFone Max Pro M2 ,135,8
+Infinix,Hot 7 Pro,136,8
+POCO,M3 ,138,8
+POCO,M4 Pro,138,8
+realme,Narzo 30 ,140,8
+realme,Narzo 30 ,141,8
+realme,7,159,8
+realme,Narzo 30 Pro 5G ,161,8
+realme,Narzo 30 Pro 5G ,162,8
+realme,5 Pro ,164,8
+SAMSUNG,Galaxy F41 ,165,8
+Xiaomi,Redmi K20 ,167,8
+realme,5 Pro ,170,8
+realme,5 Pro ,175,8
+realme,6,177,8
+realme,6i ,181,8
+realme,6,182,8
+realme,6i ,183,8
+Xiaomi,Redmi K20 ,184,8
+SAMSUNG,Galaxy F41 ,191,8
+vivo,Z1x,191,8
+realme,7,192,8
+realme,Narzo 20 Pro ,195,8
+realme,6 Pro ,201,8
+realme,6 Pro ,207,8
+Xiaomi,Redmi Note 7 Pro ,220,8
+Infinix,Zero 5,227,8
+Nokia,5.4,231,8
+Nokia,5.4,235,8
+Nokia,7.2,236,8
+Nokia,7.2,246,8
+Nokia,5.3,252,8
+Nokia,5.3,253,8
+Nokia,5.3,254,8
+SAMSUNG,Galaxy M31 ,277,8
+Xiaomi,Redmi Note 7 Pro ,277,8
+SAMSUNG,M31 Prime ,330,8
+SAMSUNG,Galaxy S9 Plus ,335,8
+SAMSUNG,Galaxy S9 Plus ,338,8
+SAMSUNG,Galaxy Note 8 ,342,8
+SAMSUNG,Galaxy S9 Plus ,345,8
+SAMSUNG,Galaxy S9 Plus ,350,8
+SAMSUNG,Galaxy Note 8 ,369,8
+Motorola,X4,395,8
+Motorola,Z2 Force,395,8
+Motorola,G6 Plus ,399,8
+vivo,V21e ,401,8
+Motorola,X4,413,8
+POCO,F1,424,8
+POCO,F1,425,8
+POCO,M3 ,426,8
+POCO,M4 Pro,426,8
+vivo,Y20 T,429,8
+vivo,Y20 T,430,8
+vivo,Y33s ,431,8
+vivo,Y1s ,436,8
+vivo,Y53s ,444,8
+POCO,X2,455,8
+Xiaomi,Redmi Note 7 Pro ,486,8
+POCO,M2 Pro,517,8
+POCO,M2 Pro,518,8
+POCO,M2 Pro,519,8
+POCO,M2  ,522,8
+POCO,X2,524,8
+vivo,S1,545,8
+vivo,Z1x,546,8
+vivo,Z1 Pro,547,8
+vivo,V11 Pro,550,8
+Xiaomi,Redmi Note 11T 5G,559,8
+Infinix,Hot 10S,563,8
+Infinix,Note 11S,571,8
+Infinix,Note 11S,572,8
+Infinix,Note 11S,574,8
+Infinix,Zero 5,577,8
+Infinix,Zero 5,580,8
+Infinix,Hot 10S,581,8
+Infinix,Hot 7 Pro,588,8
+OPPO,A37f,5,9
+LG,K9 4G LTE ,5,9
+LG,X Power ,5,9
+LG,K10 2017 ,5,9
+Google Pixel,Nexus 5X ,5,9
+LG,X Screen K500I ,5,9
+ASUS,Zenfone 2 Laser ZE500KL ,5,9
+ASUS,ZenFone Lite L1 ,5,9
+ASUS,Zenfone GO ,5,9
+ASUS,Zenfone Max ,5,9
+ASUS,Zenfone Go 5.0 LTE 2nd Gen ,5,9
+ASUS,Zenfone Go 5.0 ,5,9
+GIONEE,X-1 ,5,9
+GIONEE,F205 Pro ,5,9
+GIONEE,F205 ,5,9
+GIONEE,Elife S7 ,5,9
+GIONEE,F103 ,5,9
+Nokia,3.2,5,9
+Nokia,3.1,5,9
+Nokia,2.2,5,9
+SAMSUNG,Galaxy J2 2018 ,5,9
+SAMSUNG,Galaxy J4 ,5,9
+SAMSUNG,Galaxy J7 Nxt ,5,9
+SAMSUNG,Galaxy J7 - 6 New 2016 Edition) ,5,9
+SAMSUNG,Galaxy J5 Prime ,5,9
+SAMSUNG,Galaxy J2 Pro ,5,9
+SAMSUNG,Galaxy E7 ,5,9
+SAMSUNG,Galaxy Note 3 Neo ,5,9
+SAMSUNG,Galaxy J5 - 6 New 2016 Edition) ,5,9
+SAMSUNG,On5 Pro ,5,9
+SAMSUNG,Galaxy A5 ,5,9
+SAMSUNG,On7 Pro ,5,9
+Lenovo,A6600d40 ,5,9
+Lenovo,K3 Note ,5,9
+Lenovo,A5 ,5,9
+Lenovo,A7700 ,5,9
+Lenovo,VIBE P1m ,5,9
+Lenovo,A7000 Turbo ,5,9
+Lenovo,A6000 Plus ,5,9
+Lenovo,A6000 Shot ,5,9
+Motorola,X 2nd Generation ,5,9
+Motorola,G4,5,9
+Motorola,G4 Plus,5,9
+vivo,Y90,5,9
+GIONEE,F205 Pro ,6,9
+SAMSUNG,Galaxy J4 ,6,9
+SAMSUNG,Galaxy E7 ,6,9
+Lenovo,P70 ,6,9
+Nokia,3,13,9
+Nokia,5,13,9
+vivo,Y71i,13,9
+SAMSUNG,Galaxy A5 ,31,9
+SAMSUNG,Galaxy A7 ,31,9
+Motorola,C Plus,39,9
+OPPO,A3s,40,9
+OPPO,A83,40,9
+ASUS,Zenfone Selfie ,40,9
+ASUS,Zenfone Go 5.0 LTE 2nd Gen ,40,9
+Lenovo,A6000 Plus ,40,9
+realme,C2 ,52,9
+Apple,iPhone 6s ,57,9
+Apple,iPhone 6s Plus ,57,9
+OPPO,A37f,58,9
+ASUS,Zenfone Go 3rd Gen,58,9
+ASUS,ZenFone Lite L1 ,58,9
+ASUS,Zenfone Go 5.0 LTE 2nd Gen ,58,9
+ASUS,Zenfone Selfie ,58,9
+ASUS,Zenfone Live ,58,9
+GIONEE,P7 ,58,9
+GIONEE,X-1 ,58,9
+Apple,iPhone 6s Plus ,58,9
+Apple,iPhone 6s ,58,9
+SAMSUNG,Galaxy J2 2018 ,58,9
+SAMSUNG,Galaxy J7 Nxt ,58,9
+SAMSUNG,Galaxy J4 ,58,9
+SAMSUNG,Galaxy J5 Prime ,58,9
+SAMSUNG,Galaxy J7 - 6 New 2016 Edition) ,58,9
+SAMSUNG,Galaxy A5 2016 Edition ,58,9
+SAMSUNG,On7 Pro ,58,9
+SAMSUNG,Galaxy J5 - 6 New 2016 Edition) ,58,9
+SAMSUNG,On5 Pro ,58,9
+SAMSUNG,Galaxy J2 Pro ,58,9
+Lenovo,A5 ,58,9
+vivo,Y71i,58,9
+OPPO,A3s,60,9
+OPPO,A83,61,9
+GIONEE,F205 Pro ,61,9
+OPPO,A37f,68,9
+GIONEE,P7 ,68,9
+GIONEE,Marathon ,68,9
+Motorola,E5,68,9
+OPPO,N5111,76,9
+LG,Nexus4 E960,76,9
+Google Pixel,Nexus 5X ,76,9
+ASUS,Zenfone Go 5.0 ,76,9
+ASUS,Zenfone Go 5.0 LTE ,76,9
+ASUS,Zenfone Selfie ,76,9
+ASUS,Zenfone Max ,76,9
+GIONEE,P7 ,76,9
+GIONEE,Elife S7 ,76,9
+SAMSUNG,Galaxy J7 - 6 New 2016 Edition) ,76,9
+SAMSUNG,Galaxy A5 2016 Edition ,76,9
+SAMSUNG,Galaxy J5 - 6 New 2016 Edition) ,76,9
+SAMSUNG,Galaxy E7 ,76,9
+SAMSUNG,Galaxy Note 3 Neo ,76,9
+Lenovo,K3 Note ,76,9
+Lenovo,VIBE P1m ,76,9
+Lenovo,A6600 Plus ,76,9
+Lenovo,A6000 Plus ,76,9
+Lenovo,A7000 Turbo ,76,9
+Lenovo,A7700 ,76,9
+Lenovo,A6000 Shot ,76,9
+Motorola,X Play,76,9
+Motorola,G4 Plus,76,9
+Motorola,G4,76,9
+ASUS,Zenfone Selfie ,84,9
+Nokia,5,84,9
+Apple,iPhone 6s Plus ,84,9
+Apple,iPhone 6s ,84,9
+SAMSUNG,Galaxy J2 Pro ,84,9
+Lenovo,Vibe K5 Plus ,84,9
+HTC,One M8 ,84,9
+SAMSUNG,Galaxy M10 ,90,9
+LG,Candy K9 ,104,9
+LG,K-10 ,106,9
+LG,Stylus 2 ,111,9
+LG,K10 2017 ,111,9
+LG,K7i ,114,9
+LG,Stylus 2 ,114,9
+Google Pixel,Nexus 5X ,115,9
+LG,K8 ,120,9
+LG,G2 D802 ,121,9
+LG,K10 K420DS ,121,9
+LG,K10 2017 ,122,9
+Google Pixel,Nexus 5X ,124,9
+LG,X Cam ,126,9
+ASUS,Zenfone Live ,127,9
+SAMSUNG,Galaxy J2 2018 ,127,9
+Lenovo,K3 Note ,133,9
+Lenovo,K3 Note Music ,133,9
+realme,C2 ,179,9
+GIONEE,F103 ,184,9
+SAMSUNG,Galaxy A7 ,184,9
+SAMSUNG,Galaxy A5 ,184,9
+Motorola,C Plus,184,9
+HTC,Desire 828,184,9
+GIONEE,F205 ,225,9
+SAMSUNG,Galaxy A7 ,227,9
+SAMSUNG,Galaxy A5 ,227,9
+Nokia,C3 ,233,9
+Nokia,C3 ,234,9
+Nokia,5,239,9
+Nokia,3,244,9
+Nokia,3.2,249,9
+Nokia,2.2,249,9
+Nokia,3,251,9
+Nokia,5,251,9
+Nokia,3,259,9
+Apple,iPhone 6s ,266,9
+Apple,iPhone 6s Plus ,266,9
+SAMSUNG,Galaxy S5 ,314,9
+SAMSUNG,Galaxy S5 ,317,9
+SAMSUNG,Galaxy S4 ,329,9
+SAMSUNG,Galaxy S5 ,331,9
+SAMSUNG,Galaxy M10 ,331,9
+SAMSUNG,Galaxy S4 ,347,9
+SAMSUNG,Galaxy S5 ,351,9
+SAMSUNG,Galaxy Folder 2 ,362,9
+Motorola,E5,379,9
+Motorola,C Plus,379,9
+Lenovo,Vibe K5 Plus ,381,9
+HTC,Desire 626,381,9
+Motorola,X 2nd Generation ,423,9
+Xiaomi,MI3 ,467,9
+Xiaomi,Redmi 7A ,469,9
+HTC,Desire 630,495,9
+HTC,Desire 626,499,9
+HTC,Desire 826 DS,499,9
+HTC,826,499,9
+HTC,Desire 626,500,9
+HTC,Desire 826 DS,500,9
+HTC,820S,501,9
+HTC,820S,506,9
+HTC,Desire 820,506,9
+HTC,Desire 820,507,9
+HTC,One M8 ,509,9
+HTC,One M8 ,511,9
+Infinix,Smart 2,577,9
+Infinix,Smart 2,580,9
+Infinix,Smart 2,589,9
+Infinix,Smart 2,590,9
+Google Pixel,Quite Black,5,10
+LG,V30+ ,5,10
+ASUS,Zenfone Zoom ,5,10
+Apple,iPhone 12 Mini ,5,10
+Apple,iPhone 12 ,5,10
+Apple,iPhone 11 ,5,10
+SAMSUNG,Galaxy A12 ,5,10
+SAMSUNG,Galaxy M30S ,5,10
+HTC,Wildfire X ,6,10
+Apple,iPhone 12 Mini ,6,10
+Apple,iPhone 12 ,6,10
+SAMSUNG,Galaxy A12 ,6,10
+SAMSUNG,Galaxy M30S ,6,10
+realme,5s ,8,10
+OPPO,A54,14,10
+LG,W41 Plus ,17,10
+OPPO,A54,18,10
+OPPO,A54,19,10
+OPPO,A15s,25,10
+SAMSUNG,Galaxy S9 ,31,10
+OPPO,A15s,32,10
+LG,W31 Plus ,37,10
+vivo,Y21T,37,10
+Apple,iPhone 12 ,40,10
+Apple,iPhone 12 Mini ,40,10
+Apple,iPhone 11 ,40,10
+OPPO,F15,43,10
+OPPO,F15,47,10
+OPPO,A9 2020,48,10
+OPPO,A9,51,10
+OPPO,F11,51,10
+OPPO,A9 2020,55,10
+Apple,iPhone 13 Pro Max,58,10
+OPPO,F15,59,10
+Apple,iPhone 12 Mini ,60,10
+Apple,iPhone 12 ,60,10
+Apple,iPhone 11 ,60,10
+OPPO,A52,64,10
+OPPO,A52,65,10
+OPPO,A9 2020,66,10
+Apple,iPhone 12 Mini ,67,10
+Apple,iPhone 12 ,67,10
+Apple,iPhone 11 ,67,10
+Apple,iPhone 13 mini,67,10
+Apple,iPhone 12 ,76,10
+Apple,iPhone 11 ,76,10
+Apple,iPhone 12 Mini ,76,10
+SAMSUNG,Galaxy A12 ,76,10
+OPPO,A9,78,10
+OPPO,F11,78,10
+OPPO,A15S,82,10
+LG,V30+ ,84,10
+Apple,iPhone 13 Pro Max,84,10
+Google Pixel,3,97,10
+Google Pixel,3 XL ,97,10
+Google Pixel,2 XL ,97,10
+Google Pixel,2,97,10
+Google Pixel,3 XL ,98,10
+Google Pixel,3,98,10
+Google Pixel,2,98,10
+Google Pixel,3,99,10
+Google Pixel,3 XL ,99,10
+Google Pixel,XL ,100,10
+Apple,iPhone 11 ,133,10
+realme,5i ,136,10
+SAMSUNG,Galaxy F23 5G,136,10
+realme,C25s ,144,10
+realme,C25 ,144,10
+realme,C25s ,145,10
+realme,C25 ,145,10
+realme,8 5G ,149,10
+realme,8 5G ,150,10
+realme,8,154,10
+realme,8,155,10
+realme,7i ,165,10
+realme,Narzo 50A ,168,10
+realme,Narzo 50A ,169,10
+vivo,S2,179,10
+Motorola,One Action ,184,10
+vivo,Y21T,184,10
+realme,X ,186,10
+realme,7i ,191,10
+realme,Narzo 20 ,196,10
+realme,Narzo 20 ,197,10
+realme,Narzo 10 ,199,10
+realme,Narzo 10 ,200,10
+realme,Narzo 10 ,203,10
+realme,5i ,212,10
+SAMSUNG,Galaxy F23 5G,212,10
+realme,X ,219,10
+Xiaomi,Redmi Note 9 Pro ,227,10
+Apple,iPhone 13 Pro Max,265,10
+Motorola,One Action ,268,10
+SAMSUNG,Galaxy F12 ,270,10
+Xiaomi,Redmi 9 ,270,10
+SAMSUNG,Galaxy F12 ,271,10
+SAMSUNG,Galaxy F12 ,273,10
+SAMSUNG,Galaxy A50s ,296,10
+SAMSUNG,Galaxy A30s ,296,10
+SAMSUNG,Galaxy A50s ,299,10
+SAMSUNG,Galaxy A30s ,299,10
+SAMSUNG,Galaxy A50s ,303,10
+SAMSUNG,Galaxy A30s ,303,10
+SAMSUNG,Galaxy S9 ,338,10
+SAMSUNG,Galaxy M30S ,344,10
+SAMSUNG,Galaxy S9 ,345,10
+SAMSUNG,Galaxy M30S ,357,10
+SAMSUNG,S7 Edge ,377,10
+Motorola,One Vision ,400,10
+Motorola,One Vision ,417,10
+vivo,Y20A ,434,10
+vivo,Y72 5G ,438,10
+vivo,V20 Pro ,451,10
+Xiaomi,REDMI 9 Prime ,479,10
+Xiaomi,Note 10 lite,490,10
+vivo,S1,545,10
+Infinix,Hot 11S,564,10
+Infinix,Hot 11S,565,10
+Infinix,Hot 11S,566,10
+Apple,iPhone 13 Pro Max,604,10
+realme,C35,613,10
+realme,C35,614,10
+LG,Optimus L70 ,5,11
+GIONEE,G3 ,5,11
+Lenovo,A328 ,5,11
+Lenovo,P770 ,68,11
+LG,L 80 Dual ,76,11
+GIONEE,M2 ,76,11
+Lenovo,A850 ,76,11
+HTC,Desire 616,184,11
+HTC,Desire 516,184,11
+Nokia,X2 Dual SIM ,255,11
+Lenovo,P780 ,347,11
+HTC,Desire 616,381,11
+HTC,Desire 516,381,11
+ASUS,ROG Phone 5 ,5,12
+ASUS,ROG Phone 3 ,5,12
+ASUS,ROG Phone II ,5,12
+ASUS,ROG ,5,12
+OPPO,A53s 5G,8,12
+OPPO,A53s 5G,9,12
+OPPO,Reno2 F,10,12
+OPPO,F19 Pro,12,12
+OPPO,F17 Pro,13,12
+SAMSUNG,Galaxy F42 5G ,13,12
+Xiaomi,Redmi Note 11T 5G,13,12
+OPPO,Reno6 5G,15,12
+OPPO,Reno6 5G,16,12
+OPPO,F17 Pro,17,12
+OPPO,F17 Pro,20,12
+OPPO,F17,22,12
+OPPO,Reno5 Pro 5G,24,12
+OPPO,F17,26,12
+OPPO,F19 Pro+ 5G,29,12
+OPPO,F19 Pro,29,12
+OPPO,Reno3 Pro,30,12
+OPPO,Reno2 F,30,12
+OPPO,Reno3 Pro,31,12
+vivo,X60 ,31,12
+realme,9 Pro+ 5G,31,12
+realme,9 Pro 5G,31,12
+OPPO,Reno3 Pro,33,12
+OPPO,F19 Pro,34,12
+OPPO,F19 Pro+ 5G,35,12
+realme,X7 5G ,35,12
+OPPO,Reno5 Pro 5G,39,12
+OPPO,Reno,41,12
+OPPO,F15,43,12
+SAMSUNG,Galaxy S10 Lite ,44,12
+SAMSUNG,Galaxy S10 ,44,12
+SAMSUNG,Galaxy S10 Plus ,44,12
+OPPO,F17,46,12
+OPPO,F15,47,12
+OPPO,A9 2020,48,12
+OPPO,Reno4 Pro Special Edition,50,12
+OPPO,Reno4 Pro,53,12
+OPPO,Reno4 Pro,54,12
+OPPO,Reno4 Pro Special Edition,54,12
+OPPO,A9 2020,55,12
+OPPO,F17 PRO,58,12
+OPPO,F15,59,12
+OPPO,K3,62,12
+vivo,Y1S ,62,12
+OPPO,A52,64,12
+OPPO,A52,65,12
+OPPO,A9 2020,66,12
+SAMSUNG,Galaxy A22 5G ,68,12
+vivo,Y33T,74,12
+OPPO,K3,75,12
+ASUS,ROG Phone 5 ,76,12
+realme,9 Pro 5G,80,12
+realme,9 Pro+ 5G,80,12
+realme,X3 SuperZoom ,85,12
+realme,X3 ,85,12
+OPPO,R17,86,12
+SAMSUNG,Galaxy M31 ,90,12
+IQOO,3,94,12
+IQOO,3,95,12
+LG,Wing ,118,12
+SAMSUNG,Galaxy F62 ,119,12
+LG,Wing ,123,12
+POCO,M4 Pro 5G,133,12
+POCO,M4 Pro,138,12
+POCO,M4 Pro 5G,138,12
+realme,8 5G ,149,12
+realme,8 5G ,150,12
+realme,8 Pro ,151,12
+realme,8 Pro ,153,12
+realme,8,154,12
+realme,8,155,12
+realme,X7 5G ,160,12
+realme,Narzo 30 Pro 5G ,161,12
+realme,Narzo 30 Pro 5G ,162,12
+realme,5 Pro ,164,12
+realme,5 Pro ,170,12
+realme,X50 Pro ,171,12
+realme,X3 ,172,12
+realme,X3 SuperZoom ,172,12
+realme,GT 5G ,173,12
+realme,X50 Pro ,174,12
+realme,5 Pro ,175,12
+realme,6,177,12
+realme,X7 Pro 5G ,178,12
+realme,6,182,12
+realme,X2 Pro ,183,12
+Xiaomi,Mi 11X ,183,12
+realme,X2 ,184,12
+realme,X ,186,12
+realme,X2 ,187,12
+realme,8 Pro ,188,12
+realme,7,192,12
+realme,Narzo 20 Pro ,194,12
+realme,Narzo 20 Pro ,195,12
+realme,6 Pro ,201,12
+realme,6 Pro ,207,12
+realme,X2 ,209,12
+realme,6 Pro ,213,12
+realme,X ,217,12
+realme,X ,218,12
+realme,X ,219,12
+realme,X2 Pro ,220,12
+realme,X ,221,12
+SAMSUNG,Galaxy S21 SE 5G,265,12
+SAMSUNG,M52 5G,270,12
+SAMSUNG,M31s ,272,12
+SAMSUNG,Galaxy M51 ,273,12
+SAMSUNG,Galaxy A22 5G ,274,12
+SAMSUNG,GALAXY M31S ,276,12
+SAMSUNG,Galaxy M31 ,277,12
+SAMSUNG,Galaxy Z Flip3 5G ,278,12
+SAMSUNG,Galaxy A72 ,279,12
+SAMSUNG,Galaxy A52s 5G ,279,12
+SAMSUNG,Galaxy A52 ,279,12
+SAMSUNG,Galaxy A32 ,279,12
+SAMSUNG,Galaxy A51 ,281,12
+SAMSUNG,Galaxy A71 ,281,12
+SAMSUNG,Galaxy Z Flip3 5G ,282,12
+SAMSUNG,Galaxy S21 Plus ,282,12
+SAMSUNG,Galaxy A80 ,282,12
+SAMSUNG,Galaxy F62 ,283,12
+SAMSUNG,Galaxy A52s 5G ,284,12
+SAMSUNG,Galaxy A72 ,284,12
+SAMSUNG,Galaxy A52 ,284,12
+SAMSUNG,Galaxy F62 ,285,12
+SAMSUNG,Galaxy A52 ,286,12
+SAMSUNG,Galaxy A72 ,286,12
+SAMSUNG,Galaxy A32 ,286,12
+SAMSUNG,Galaxy S10 ,287,12
+SAMSUNG,Galaxy S10 Plus ,287,12
+SAMSUNG,Galaxy S10 Lite ,287,12
+SAMSUNG,Galaxy A22 5G ,288,12
+SAMSUNG,Galaxy A52s 5G ,289,12
+SAMSUNG,Galaxy A72 ,289,12
+SAMSUNG,Galaxy A52 ,289,12
+SAMSUNG,Galaxy Note10 Lite ,291,12
+SAMSUNG,Galaxy A71 ,292,12
+SAMSUNG,Galaxy A51 ,292,12
+SAMSUNG,Galaxy A70s ,293,12
+SAMSUNG,Galaxy A70s ,299,12
+SAMSUNG,Galaxy A71 ,299,12
+SAMSUNG,Galaxy S20 FE ,301,12
+SAMSUNG,Galaxy S20 FE ,302,12
+SAMSUNG,Galaxy A70s ,303,12
+SAMSUNG,Galaxy A51 ,303,12
+SAMSUNG,Galaxy M42 ,305,12
+SAMSUNG,Galaxy A9 ,306,12
+SAMSUNG,Galaxy S20 ,307,12
+SAMSUNG,Galaxy M51 ,314,12
+SAMSUNG,Galaxy A80 ,315,12
+vivo,Y91i ,316,12
+SAMSUNG,Galaxy S21 ,318,12
+SAMSUNG,Galaxy Note10 Lite ,319,12
+SAMSUNG,Galaxy M42 ,320,12
+SAMSUNG,Galaxy S20+ ,321,12
+SAMSUNG,Galaxy S20 ,321,12
+SAMSUNG,Galaxy S21 ,323,12
+SAMSUNG,Galaxy S21 Plus ,323,12
+SAMSUNG,Galaxy A9 ,326,12
+SAMSUNG,Galaxy A71 ,333,12
+SAMSUNG,Galaxy S10 Plus ,334,12
+SAMSUNG,Galaxy S10 ,334,12
+SAMSUNG,Galaxy S10 Lite ,334,12
+SAMSUNG,Galaxy A80 ,336,12
+SAMSUNG,Galaxy S20 ,337,12
+SAMSUNG,Galaxy Note10 Lite ,340,12
+SAMSUNG,Galaxy S21 ,341,12
+SAMSUNG,Galaxy S21 Plus ,358,12
+SAMSUNG,Galaxy S20 FE ,361,12
+SAMSUNG,Galaxy S20 FE ,363,12
+SAMSUNG,Galaxy S20 FE ,364,12
+SAMSUNG,Galaxy S20+ ,367,12
+Xiaomi,Mi 10T ,367,12
+Xiaomi,Mi 11X ,367,12
+Xiaomi,Mi 11X Pro 5G ,367,12
+Motorola,Edge 20 ,393,12
+Motorola,Edge 20 ,398,12
+POCO,X3 Pro ,424,12
+POCO,X3 Pro ,425,12
+POCO,M4 Pro,426,12
+POCO,M4 Pro 5G,426,12
+vivo,Y33T,431,12
+vivo,Y1S ,436,12
+vivo,Y72 5G ,438,12
+vivo,V20 2021 ,445,12
+vivo,Y53s ,448,12
+vivo,Y30 ,449,12
+vivo,V20 SE ,450,12
+Xiaomi,Mi 10i ,455,12
+Xiaomi,Mi 10i ,456,12
+Xiaomi,Mi 11 Lite ,458,12
+Xiaomi,11 Lite NE,458,12
+Xiaomi,Mi 11 Lite ,459,12
+Xiaomi,11 Lite NE,459,12
+Xiaomi,Mi 11 Lite ,460,12
+Xiaomi,Mi 11X ,461,12
+Xiaomi,Mi 11X Pro 5G ,461,12
+Xiaomi,Mi 11X ,462,12
+realme,X7 Max,501,12
+POCO,F3 GT,514,12
+POCO,F3 GT,515,12
+realme,GT Master Edition ,526,12
+realme,GT Neo 2,528,12
+realme,GT Neo 2,529,12
+realme,GT Master Edition ,530,12
+realme,X7 Max,532,12
+realme,X7 Max,533,12
+SAMSUNG,Galaxy A52s 5G ,534,12
+SAMSUNG,Galaxy Z Flip3 5G ,536,12
+SAMSUNG,Galaxy S21 SE 5G,536,12
+SAMSUNG,Galaxy F42 5G ,537,12
+vivo,V23 5G,538,12
+vivo,V23 5G,539,12
+vivo,V23 Pro 5G,539,12
+vivo,V21 5G ,540,12
+vivo,X70 Pro ,542,12
+vivo,X50  ,544,12
+Xiaomi,11i 5G,554,12
+Xiaomi,11i 5G,555,12
+Xiaomi,11i Hypercharge 5G,556,12
+Xiaomi,11i Hypercharge 5G,557,12
+Xiaomi,Redmi Note 11T 5G,558,12
+Xiaomi,11 Lite NE,560,12
+Infinix,Note 11S Free Fire Edition,571,12
+Infinix,Note 11S Free Fire Edition,572,12
+Infinix,Note 11S Free Fire Edition,574,12
+Infinix,Zero 8i,582,12
+Infinix,Zero 8i,596,12
+vivo,Y75 5G,606,12
+vivo,Y75 5G,607,12
+realme,9 5G SE,611,12
+realme,9 5G SE,612,12
+SAMSUNG,M52 5G,615,12
+SAMSUNG,M52 5G,616,12
+SAMSUNG,M52 5G,617,12
+ASUS,ROG Phone 3 ,5,13
+SAMSUNG,Galaxy S20 Ultra ,307,13
+SAMSUNG,Galaxy S20 Ultra ,367,13
+ASUS,Zenfone Go 4.5 ,5,14
+ASUS,Zenfone C ,5,14
+GIONEE,P5 Mini ,5,14
+GIONEE,Pioneer P4 ,5,14
+GIONEE,M3 ,5,14
+GIONEE,Pioneer P4S ,5,14
+GIONEE,V4S ,5,14
+Nokia,2.1,5,14
+SAMSUNG,Galaxy On7 ,5,14
+SAMSUNG,Galaxy J2 Core ,5,14
+SAMSUNG,Z2 ,5,14
+SAMSUNG,Galaxy J5 ,5,14
+SAMSUNG,Galaxy J2 - 2016 ,5,14
+SAMSUNG,Galaxy J1 ,5,14
+SAMSUNG,Galaxy J2 ,5,14
+SAMSUNG,Galaxy Grand 2 ,5,14
+SAMSUNG,Z3 ,5,14
+SAMSUNG,Galaxy J2 Ace ,5,14
+SAMSUNG,Galaxy Mega 5.8 ,5,14
+SAMSUNG,Tizen Z3 ,5,14
+Lenovo,A2010 ,5,14
+Lenovo,B ,5,14
+Lenovo,A536 ,5,14
+Lenovo,A1000 ,5,14
+Lenovo,A5000 ,5,14
+Motorola,G 3rd Generation ,5,14
+HTC,Desire 700,5,14
+GIONEE,P5 Mini ,6,14
+SAMSUNG,Galaxy J2 Core ,6,14
+SAMSUNG,Galaxy Grand Neo Plus ,31,14
+ASUS,Zenfone Go 2nd Gen,40,14
+ASUS,Zenfone C ,40,14
+ASUS,Zenfone Go 4.5 LTE ,40,14
+GIONEE,P5 Mini ,40,14
+ASUS,Zenfone Go ,58,14
+ASUS,Zenfone Go 4.5 LTE ,58,14
+GIONEE,P5 Mini ,58,14
+SAMSUNG,Galaxy On7 ,58,14
+SAMSUNG,Galaxy J2 Core ,58,14
+SAMSUNG,Galaxy Grand 2 ,58,14
+SAMSUNG,Galaxy J2 ,58,14
+SAMSUNG,Z4 ,58,14
+SAMSUNG,Tizen Z3 ,58,14
+SAMSUNG,Galaxy J2 Ace ,58,14
+SAMSUNG,Galaxy J1 ,58,14
+SAMSUNG,Galaxy J5 ,58,14
+SAMSUNG,Galaxy J2 - 2016 ,58,14
+SAMSUNG,Grand Prime 4G ,58,14
+SAMSUNG,Galaxy Grand Neo Plus ,58,14
+SAMSUNG,Z2 ,58,14
+Lenovo,S660 ,58,14
+GIONEE,Pioneer P6 ,68,14
+SAMSUNG,Grand Prime ,68,14
+SAMSUNG,Galaxy Grand Prime 4g ,68,14
+Lenovo,A2010 ,68,14
+LG,L90 Dual ,76,14
+LG,G3 Beat ,76,14
+ASUS,Zenfone Go 2nd Gen,76,14
+ASUS,Zenfone C ,76,14
+GIONEE,P5 Mini ,76,14
+GIONEE,Pioneer P4 ,76,14
+GIONEE,Marathon M3 ,76,14
+GIONEE,Ctrl V4S ,76,14
+GIONEE,Pioneer P4S ,76,14
+SAMSUNG,Galaxy J2 ,76,14
+SAMSUNG,Galaxy J5 ,76,14
+SAMSUNG,Galaxy Core Prime G361 Dual Sim - White ,76,14
+SAMSUNG,Galaxy Grand Neo ,76,14
+SAMSUNG,Galaxy J1 ,76,14
+SAMSUNG,Galaxy Grand Neo Plus ,76,14
+SAMSUNG,Grand Prime ,76,14
+SAMSUNG,Grand Prime 4G ,76,14
+SAMSUNG,Galaxy Grand 2 ,76,14
+SAMSUNG,Galaxy S4 Zoom ,76,14
+Lenovo,A2010 ,76,14
+Lenovo,A5000 ,76,14
+Lenovo,A536 ,76,14
+Lenovo,B ,76,14
+Lenovo,A1000 ,76,14
+Motorola,E 2nd Gen 3G ,76,14
+Motorola,G 3rd Generation ,76,14
+ASUS,Zenfone Go ,84,14
+ASUS,Zenfone Go 4.5 LTE ,84,14
+SAMSUNG,Galaxy J2 Ace ,84,14
+SAMSUNG,Galaxy J2 - 2016 ,84,14
+SAMSUNG,Galaxy Core Prime ,84,14
+SAMSUNG,Tizen Z3 ,84,14
+Lenovo,S930 ,84,14
+LG,K-7 ,111,14
+LG,Max X160 ,112,14
+LG,Spirit 4G LTE ,116,14
+LG,L Bello ,116,14
+LG,G3 Stylus ,116,14
+LG,Spirit ,116,14
+LG,Spirit ,121,14
+ASUS,Zenfone Go 4.5 ,127,14
+ASUS,Zenfone Go ,132,14
+ASUS,Zenfone Go 4.5 LTE ,132,14
+ASUS,Zenfone Go 2nd Gen,133,14
+GIONEE,P5 Mini ,133,14
+Nokia,1,223,14
+SAMSUNG,Galaxy Core Prime ,232,14
+Nokia,2.1,240,14
+Nokia,1,241,14
+Nokia,2,242,14
+Nokia,2.1,243,14
+Nokia,2,250,14
+SAMSUNG,Galaxy Core ,295,14
+SAMSUNG,Galaxy Grand I9082 ,295,14
+SAMSUNG,Galaxy J2-2017 ,309,14
+SAMSUNG,Galaxy S4 Mini ,329,14
+Lenovo,S560 ,347,14
+SAMSUNG,Galaxy Core ,354,14
+HTC,Desire 326G DS,360,14
+SAMSUNG,Sm-G361Hhadins ,372,14
+SAMSUNG,Galaxy Grand Quattro ,373,14
+SAMSUNG,Galaxy Grand Quattro ,376,14
+HTC,Desire 816  ,381,14
+HTC,Desire 326G DS,499,14
+HTC,626G Plus,499,14
+HTC,626G Plus,500,14
+HTC,620G,506,14
+HTC,Desire 816  ,510,14
+ASUS,ROG Phone 5 ,5,15
+ASUS,ROG Phone 3 ,5,15
+OPPO,Reno6 Pro 5G,15,15
+OPPO,Reno6 Pro 5G,16,15
+vivo,X60 Pro,31,15
+ASUS,ROG Phone 5 ,76,15
+realme,X3 SuperZoom ,85,15
+OPPO,Reno6 Pro 5G,88,15
+IQOO,3,96,15
+realme,X50 Pro 5G ,171,15
+realme,X3 SuperZoom ,172,15
+realme,X50 Pro ,174,15
+realme,GT 5G ,176,15
+SAMSUNG,Galaxy Note 20 Ultra 5G ,178,15
+SAMSUNG,Galaxy Fold 2 ,178,15
+realme,X2 Pro ,183,15
+realme,X2 Pro ,215,15
+realme,X2 Pro ,216,15
+realme,X2 Pro ,220,15
+SAMSUNG,Galaxy Z Fold3 5G ,282,15
+SAMSUNG,Galaxy S21 Ultra ,282,15
+vivo,Y12G ,282,15
+SAMSUNG,Galaxy Note 20 Ultra 5G ,290,15
+SAMSUNG,Galaxy Fold 2 ,290,15
+SAMSUNG,Galaxy Note 10 Plus ,291,15
+SAMSUNG,Galaxy Note 10 Plus ,319,15
+SAMSUNG,Galaxy Note 10 Plus ,356,15
+SAMSUNG,Galaxy S21 Ultra ,358,15
+SAMSUNG,Galaxy Z Fold3 5G ,358,15
+vivo,X70 Pro ,367,15
+Motorola,Edge+ ,410,15
+vivo,V20 2021 ,445,15
+vivo,V21 5G ,446,15
+vivo,V21 5G ,447,15
+vivo,X60 Pro,452,15
+realme,X7 Max,501,15
+realme,GT Neo 2,528,15
+realme,GT Neo 2,529,15
+realme,X7 Max,532,15
+realme,X7 Max,533,15
+SAMSUNG,Galaxy Z Fold3 5G ,535,15
+vivo,V23 5G,538,15
+vivo,V23 Pro 5G,538,15
+vivo,V23 5G,539,15
+vivo,V23 Pro 5G,539,15
+vivo,X70 Pro+,541,15
+OPPO,Reno7 Pro 5G,601,15
+ASUS,Zenfone Go 5.0 ,5,16
+Lenovo,A7000 ,5,16
+Lenovo,Sisley S60 ,68,16
+Lenovo,A7000 ,76,16
+Lenovo,Sisley S60 ,76,16
+ASUS,6Z ,5,17
+Infinix,Note 10 Pro,5,17
+OPPO,F19 Pro,12,17
+ASUS,6Z ,13,17
+OPPO,F19 Pro,29,17
+OPPO,Reno2 Z,30,17
+OPPO,Reno3 Pro,30,17
+OPPO,Reno3 Pro,31,17
+realme,9 Pro+ 5G,31,17
+OPPO,Reno3 Pro,33,17
+OPPO,F19 Pro,34,17
+ASUS,ZenFone 5Z ,37,17
+vivo,Y21 ,37,17
+OPPO,Reno2 Z,42,17
+OPPO,Reno2,42,17
+OPPO,Find X,49,17
+Infinix,Note 10 Pro,60,17
+realme,9 Pro+ 5G,80,17
+ASUS,6Z ,84,17
+OPPO,Find X,85,17
+realme,X3 SuperZoom ,85,17
+OPPO,Reno 10x Zoom,87,17
+OPPO,Reno 10x Zoom,89,17
+OPPO,Reno2,90,17
+vivo,Y31 ,90,17
+IQOO,3,94,17
+IQOO,3,95,17
+ASUS,ZenFone 5Z ,131,17
+Xiaomi,Redmi K20 Pro ,167,17
+realme,X3 SuperZoom ,172,17
+vivo,V21 5G ,172,17
+Xiaomi,Mi 11X Pro 5G ,183,17
+realme,X2 ,184,17
+realme,X2 ,187,17
+realme,X2 ,209,17
+SAMSUNG,Galaxy Z Flip3 5G ,278,17
+SAMSUNG,Galaxy A72 ,279,17
+SAMSUNG,Galaxy S21 Plus ,282,17
+SAMSUNG,Galaxy A72 ,284,17
+SAMSUNG,Galaxy A72 ,286,17
+SAMSUNG,Galaxy A72 ,289,17
+SAMSUNG,Galaxy Note 20 ,290,17
+SAMSUNG,Galaxy Note 10 ,291,17
+SAMSUNG,Galaxy Note 20 ,298,17
+SAMSUNG,Galaxy Note 20 ,300,17
+SAMSUNG,Galaxy S21 ,318,17
+SAMSUNG,Galaxy Note 10 ,319,17
+SAMSUNG,Galaxy S21 Plus ,323,17
+SAMSUNG,Galaxy S21 ,323,17
+SAMSUNG,Galaxy Note 10 ,340,17
+SAMSUNG,Galaxy S21 ,341,17
+SAMSUNG,Galaxy S21 Plus ,358,17
+Xiaomi,Mi 11X Pro 5G ,367,17
+Motorola,Razr 5G ,397,17
+POCO,F1,425,17
+vivo,Y20 ,429,17
+vivo,V21 5G ,446,17
+vivo,V21 5G ,447,17
+Xiaomi,Mi 10 ,453,17
+Xiaomi,Mi 10 ,454,17
+POCO,F3 GT,514,17
+POCO,F1,516,17
+POCO,X2,523,17
+POCO,X2,524,17
+POCO,F1,525,17
+realme,GT Master Edition ,531,17
+vivo,X70 Pro ,542,17
+vivo,X50 Pro,543,17
+vivo,X50  ,544,17
+Xiaomi,Y11T Pro,553,17
+Infinix,Note 10 Pro,575,17
+ASUS,ROG Phone II ,5,18
+SAMSUNG,Galaxy Z Fold3 5G ,282,18
+SAMSUNG,Galaxy Note 10 Plus ,291,18
+SAMSUNG,Galaxy Note 10 Plus ,319,18
+Nokia,Lumia 920 ,5,19
+Apple,iPhone 6 ,58,19
+Apple,iPhone 6 ,266,19
+Apple,iPhone SE ,5,20
+Apple,iPhone SE ,40,20
+Apple,iPhone 8 ,40,20
+Apple,iPhone 6s Plus ,57,20
+Apple,iPhone 6s ,57,20
+Apple,iPhone 8 ,58,20
+Apple,iPhone 6s ,58,20
+Apple,iPhone 6s Plus ,58,20
+Apple,iPhone SE ,76,20
+Apple,iPhone 6s ,84,20
+Apple,iPhone 8 ,84,20
+Apple,iPhone 6s Plus ,84,20
+Apple,iPhone 6s Plus ,266,20
+Apple,iPhone 6s ,266,20
+Apple,iPhone SE ,5,21
+Apple,iPhone 7 ,5,21
+Apple,iPhone SE ,40,21
+Apple,iPhone 7 ,40,21
+Apple,iPhone 6s Plus ,57,21
+Apple,iPhone 7 ,57,21
+Apple,iPhone 6s ,57,21
+Apple,iPhone 6s ,58,21
+Apple,iPhone SE ,76,21
+Apple,iPhone 7 ,84,21
+Apple,iPhone 6s ,84,21
+Apple,iPhone 6s Plus ,84,21
+Apple,iPhone 7 ,87,21
+Apple,iPhone 12 ,5,22
+Apple,iPhone 12 Mini ,5,22
+Apple,iPhone 11 ,5,22
+Apple,iPhone 12 Mini ,6,22
+Apple,iPhone 12 ,6,22
+SAMSUNG,Galaxy S9 ,31,22
+Apple,iPhone 12 Mini ,40,22
+Apple,iPhone 12 ,40,22
+Apple,iPhone 11 ,40,22
+Apple,iPhone 11 Pro Max ,58,22
+Apple,iPhone 11 Pro ,58,22
+Apple,iPhone XS ,58,22
+Apple,iPhone XS Max ,58,22
+Apple,iPhone 13 Pro Max,58,22
+Apple,iPhone 12 Mini ,60,22
+Apple,iPhone 11 ,60,22
+Apple,iPhone 12 ,60,22
+Apple,iPhone 12 ,67,22
+Apple,iPhone 12 Mini ,67,22
+Apple,iPhone 11 ,67,22
+Apple,iPhone 12 ,76,22
+Apple,iPhone 12 Mini ,76,22
+Apple,iPhone 11 ,76,22
+Apple,iPhone 11 Pro ,84,22
+Apple,iPhone XS ,84,22
+Apple,iPhone 11 Pro Max ,84,22
+Apple,iPhone XS Max ,84,22
+Apple,iPhone 13 Pro Max,84,22
+Apple,iPhone 11 ,133,22
+Apple,iPhone 11 Pro ,264,22
+Apple,iPhone 11 Pro Max ,264,22
+Apple,iPhone 13 Pro Max,265,22
+Apple,iPhone XS ,266,22
+Apple,iPhone 11 Pro ,266,22
+Apple,iPhone 11 Pro Max ,266,22
+Apple,iPhone XS Max ,266,22
+Apple,iPhone 13 Pro Max,604,22
+Apple,iPhone 13 Pro Max,605,22
+Apple,iPhone XR ,5,23
+SAMSUNG,Galaxy S6 Edge ,5,23
+Xiaomi,Redmi 6 ,5,23
+LG,Q60 ,6,23
+Apple,iPhone XR ,6,23
+realme,3,25,23
+Xiaomi,Redmi 8A Dual ,30,23
+OPPO,A7,38,23
+Apple,iPhone XR ,40,23
+Apple,iPhone 8 Plus ,40,23
+OPPO,A5 2020,56,23
+GIONEE,Elife E8 ,58,23
+Apple,iPhone 8 Plus ,58,23
+LG,K42 ,67,23
+LG,K42 ,68,23
+OPPO,A7,73,23
+OPPO,A5 2020,74,23
+vivo,Y33s ,74,23
+Apple,iPhone XR ,76,23
+Apple,iPhone 8 Plus ,84,23
+Apple,iPhone X ,84,23
+Apple,iPhone XR ,133,23
+realme,U1 ,205,23
+realme,U1 ,206,23
+realme,3,214,23
+GIONEE,Marathon M5 Plus ,227,23
+GIONEE,Marathon M5 Plus ,228,23
+GIONEE,Marathon M5 Plus ,229,23
+Nokia,2.4,232,23
+Nokia,2.4,237,23
+Nokia,2.4,238,23
+Apple,iPhone XR ,262,23
+Apple,iPhone 8 Plus ,266,23
+Lenovo,ZUK Z1 ,266,23
+Apple,iPhone X ,267,23
+vivo,Y12G ,282,23
+SAMSUNG,Galaxy S6 Edge ,311,23
+SAMSUNG,Galaxy S6 ,311,23
+vivo,U11,314,23
+SAMSUNG,Galaxy S6 Edge ,349,23
+vivo,Y20A ,432,23
+vivo,Y20A 2021 ,434,23
+vivo,Y73 ,435,23
+vivo,X60 ,452,23
+Xiaomi,Redmi 8A Dual ,473,23
+Xiaomi,Redmi 8A Dual ,474,23
+vivo,Y93,549,23
+Apple,iPhone XR ,5,24
+Apple,iPhone 7 Plus ,5,24
+Apple,iPhone XR ,6,24
+Apple,iPhone XR ,40,24
+Apple,iPhone 7 Plus ,40,24
+Apple,iPhone 7 Plus ,57,24
+Apple,iPhone 7 Plus ,58,24
+Apple,iPhone XR ,76,24
+Apple,iPhone 7 Plus ,84,24
+Apple,iPhone 7 Plus ,87,24
+Apple,iPhone XR ,133,24
+Apple,iPhone XR ,262,24
+Apple,iPhone SE ,5,25
+Apple,iPhone 7 ,5,25
+Apple,iPhone SE ,40,25
+Apple,iPhone 7 ,40,25
+Apple,iPhone 8 ,40,25
+Apple,iPhone 7 ,57,25
+Apple,iPhone 7 ,58,25
+Apple,iPhone SE ,76,25
+Apple,iPhone 7 ,87,25
+Apple,iPhone 8 ,266,25
+Apple,iPhone XR ,5,26
+Apple,iPhone 7 Plus ,5,26
+Apple,iPhone XR ,6,26
+Apple,iPhone 8 Plus ,40,26
+Apple,iPhone 7 Plus ,40,26
+Apple,iPhone XR ,40,26
+Apple,iPhone 7 Plus ,57,26
+Apple,iPhone 8 Plus ,58,26
+Apple,iPhone 7 Plus ,58,26
+Apple,iPhone XR ,76,26
+Apple,iPhone 8 Plus ,84,26
+Apple,iPhone 7 Plus ,84,26
+Apple,iPhone X ,84,26
+Apple,iPhone 7 Plus ,87,26
+Apple,iPhone XR ,133,26
+Apple,iPhone XR ,262,26
+Apple,iPhone 8 Plus ,266,26
+Apple,iPhone X ,267,26
+OPPO,Reno2 F,10,27
+OPPO,Reno2 F,30,27
+Apple,iPhone 12 Pro ,58,27
+Apple,iPhone 12 Pro ,84,27
+Apple,iPhone 12 Pro ,263,27
+Apple,iPhone 12 Pro ,265,27
+POCO,F1,424,27
+Xiaomi,Redmi Note 11T 5G,13,28
+SAMSUNG,Galaxy Note 9 ,31,29
+SAMSUNG,Galaxy S10 Lite ,44,29
+SAMSUNG,Galaxy Note 9 ,90,29
+SAMSUNG,Galaxy S10 ,287,29
+SAMSUNG,Galaxy S10 Plus ,310,29
+SAMSUNG,Galaxy Note 9 ,328,29
+SAMSUNG,Galaxy S10 Lite ,334,29
+Apple,iPhone 12 Pro ,58,30
+Apple,iPhone 12 Pro ,84,30
+Apple,iPhone 12 Pro ,265,30
+Apple,iPhone XS ,58,31
+Apple,iPhone 11 Pro ,58,31
+Apple,iPhone XS Max ,58,31
+Apple,iPhone 13 Pro Max,58,31
+Apple,iPhone 13 ,67,31
+Apple,iPhone 13 mini,67,31
+Apple,iPhone XS Max ,84,31
+Apple,iPhone 11 Pro ,84,31
+Apple,iPhone 11 Pro Max ,84,31
+Apple,iPhone XS ,84,31
+Apple,iPhone 13 Pro Max,84,31
+Apple,iPhone 11 Pro ,264,31
+Apple,iPhone 11 Pro Max ,264,31
+Apple,iPhone 13 Pro Max,265,31
+Apple,iPhone XS ,266,31
+Apple,iPhone 11 Pro ,266,31
+Apple,iPhone 11 Pro Max ,266,31
+Apple,iPhone XS Max ,266,31
+Apple,iPhone 13 Pro Max,604,31
+Apple,iPhone 13 Pro,604,31
+Apple,iPhone 13 Pro Max,605,31
+Apple,iPhone 6 ,58,32
+Apple,iPhone 6 Plus ,58,32
+Apple,iPhone 6 Plus ,84,32
+Apple,iPhone 6 ,84,32
+Apple,iPhone 6 ,266,32
+Apple,iPhone 6 Plus ,266,32
+Apple,iPhone 6 ,58,33
+Apple,iPhone 6 ,68,33
+Apple,iPhone 6 Plus ,84,33
+Apple,iPhone 6 ,84,33
+Apple,iPhone 6 Plus ,266,33
+SAMSUNG,Galaxy S21 Ultra ,282,34
+Xiaomi,11 Lite NE,458,35
+Xiaomi,Redmi Note 11T 5G,559,35
+Xiaomi,11 Lite NE,460,36
+Xiaomi,Redmi Note 11T 5G,559,37
